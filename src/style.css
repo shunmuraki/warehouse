@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Outfit:wght@300;400;500;700&display=swap');
+
 /* CSS Custom Properties Definitions */
 
 :root {
@@ -86,60 +88,23 @@ footer {
 }
 
 hr {
-  background: var(--color-accent);
-  height: 1px;
+  background: transpaent;
+  height: 60px;
   border: 0;
+  position: relative;
+}
+
+hr::after {
+   content: '';
+   width: 100%;
+   height: 0.5px;
+   background: var(--color-accent);
+   position: absolute;
+   top: 30px;
 }
 
 /* Heading */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: var(--font-heading);
-  margin-top: var(--spacing-12);
-  margin-bottom: var(--spacing-6);
-  line-height: var(--lineHeight-tight);
-  letter-spacing: -0.025em;
-}
-
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: var(--fontWeight-bold);
-  color: var(--color-heading);
-}
-
-h1 {
-  font-weight: var(--fontWeight-black);
-  font-size: var(--fontSize-6);
-  color: var(--color-heading-black);
-}
-
-h2 {
-  font-size: var(--fontSize-5);
-}
-
-h3 {
-  font-size: var(--fontSize-4);
-}
-
-h4 {
-  font-size: var(--fontSize-3);
-}
-
-h5 {
-  font-size: var(--fontSize-2);
-}
-
-h6 {
-  font-size: var(--fontSize-1);
-}
 
 h1 > a {
   color: inherit;
@@ -163,6 +128,10 @@ p {
   --x-height-multiplier: 0.35;
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-8) var(--spacing-0);
   padding: var(--spacing-0);
+}
+
+p .gatsby-resp-image-wrapper {
+   max-width: 100% !important;
 }
 
 ul,
@@ -192,17 +161,6 @@ li *:last-child {
 li > ul {
   margin-left: var(--spacing-8);
   margin-top: calc(var(--spacing-8) / 2);
-}
-
-blockquote {
-  color: var(--color-text-light);
-  margin-left: calc(-1 * var(--spacing-6));
-  margin-right: var(--spacing-8);
-  padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);
-  border-left: var(--spacing-1) solid var(--color-primary);
-  font-size: var(--fontSize-2);
-  font-style: italic;
-  margin-bottom: var(--spacing-8);
 }
 
 blockquote > :last-child {
@@ -304,11 +262,6 @@ a:focus {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
 
-.blog-post header p {
-  font-size: var(--fontSize-2);
-  font-family: var(--font-heading);
-}
-
 .blog-post-nav ul {
   margin: var(--spacing-0);
 }
@@ -328,4 +281,73 @@ a:focus {
   ol {
     list-style-position: inside;
   }
+}
+
+
+body, html {
+   background-color: #FFF3EB;
+   font-family: "Outfit", sans-serif !important;
+}
+
+.wh {
+   width: 100%;
+   height: 100vh;
+   overflow: hidden;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+.right_flex {
+   box-sizing: border-box;
+   padding: 50px 10%;
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start;
+   align-items: flex-start;
+   width: 78%;
+   height: 100vh;
+   overflow: auto;
+}
+
+.lis {
+   padding: 50px 20px !important;
+}
+
+.right_flex .box {
+      margin: 10px;
+      border-radius: 3px;
+      width: 30%;
+      box-sizing: border-box;
+      padding: 10px 15px;
+      border: 0.5px solid #646464;
+}
+
+.right_flex .box .tp {
+   letter-spacing: 0.05em;
+   line-height: 1.5;
+   font-weight: 400;
+   font-size: 20px;
+   margin: 20px 0 !important;
+}
+
+.right_flex .box .tp .linkin {
+      color: #646464 !importanit;
+      text-decoration: none;
+}
+
+.right_flex .box .tp .linkin span {
+      color: #646464 !important;
+}
+
+.right_flex .box .cont {
+      letter-spacing: 0.08em;
+      line-height: 1.6;
+      font-weight: 300;
+      font-size: 12px;
+      color: #646464;
+}
+
+.blog-post {
+   width: 100%;
 }
