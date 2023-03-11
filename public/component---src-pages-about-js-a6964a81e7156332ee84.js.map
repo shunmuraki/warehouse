@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-about-js-a6964a81e7156332ee84.js","mappings":"gIAMA,UAJkB,IACV,0BAAI,mB","sources":["webpack://Warehouse/./src/pages/about.js"],"sourcesContent":["import * as React from 'react'\n\nconst AboutPage = () => {\n\treturn <h1>Gatsby Blog Site</h1>\n};\n\nexport default AboutPage;\n"],"names":[],"sourceRoot":""}
