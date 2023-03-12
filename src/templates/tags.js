@@ -15,12 +15,12 @@ const TagPageTemplate = ({ data, pageContext, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   return (
     <Layout location={location} title={siteTitle}>
-    <div class="right_flex lis">
+    <div className="right_flex lis">
 	       {posts.map(post => {
 		  return (
-		     <div key={post.fields.slug} class="box">
+		     <div key={post.fields.slug} className="box">
 			      <h2 class="tp">
-			      <Link to={post.fields.slug} itemProp="url" class="linkin">
+			      <Link to={post.fields.slug} itemProp="url" className="linkin">
 				 <span itemProp="headline">{post.frontmatter.title}</span>
 			      </Link>
 			      </h2>
@@ -29,7 +29,7 @@ const TagPageTemplate = ({ data, pageContext, location }) => {
 				 __html: post.frontmatter.description || post.excerpt,
 				 }}
 				 itemProp="description"
-				 class="cont"
+				 className="cont"
 			      />	
 		     </div>
 		  )

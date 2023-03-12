@@ -32,7 +32,7 @@ const Bloglist = () => {
    const posts = data.allMarkdownRemark.nodes
 
    return (
-      <div class="right_flex lis">
+      <div className="right_flex lis">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 

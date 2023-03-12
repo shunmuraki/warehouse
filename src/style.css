@@ -285,7 +285,7 @@ a:focus {
 
 
 body, html {
-   background-color: #FFF3EB;
+   background-color: #FEF5FF;
    font-family: "Outfit", sans-serif !important;
 }
 
@@ -300,54 +300,56 @@ body, html {
 
 .right_flex {
    box-sizing: border-box;
-   padding: 50px 10%;
+   padding: 50px;
    display: flex;
    flex-direction: row;
    justify-content: flex-start;
    align-items: flex-start;
-   width: 78%;
+   flex-wrap: wrap;
    height: 100vh;
+   width: 78%;
    overflow: auto;
 }
 
 .lis {
-   padding: 50px 20px !important;
+   padding: 50px 20px 100vh 20px !important;
 }
 
 .right_flex .box {
       margin: 10px;
       border-radius: 3px;
-      width: 30%;
+      max-width: 300px;
       box-sizing: border-box;
-      padding: 10px 15px;
-      border: 0.5px solid #646464;
+      padding: 5px 15px 20px 15px;
+      border: 0.5px solid #929292;
 }
 
 .right_flex .box .tp {
    letter-spacing: 0.05em;
-   line-height: 1.5;
-   font-weight: 400;
+   line-height: 1.4;
+   font-weight: 300;
    font-size: 20px;
-   margin: 20px 0 !important;
+   margin: 10px 0 !important;
 }
 
 .right_flex .box .tp .linkin {
-      color: #646464 !importanit;
+      color: #4c4c4c !important;
       text-decoration: none;
 }
 
 .right_flex .box .tp .linkin span {
-      color: #646464 !important;
+      color: #4c4c4c !important;
 }
 
 .right_flex .box .cont {
-      letter-spacing: 0.08em;
-      line-height: 1.6;
-      font-weight: 300;
+      letter-spacing: 0.07em;
+      line-height: 1.8;
+      font-weight: 400;
       font-size: 12px;
-      color: #646464;
+      color: #4c4c4c !important;
+      margin: 0 !important;
 }
 
 .blog-post {
-   width: 100%;
+  width: 100%; 
 }
