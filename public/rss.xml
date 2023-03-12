@@ -1,8 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 11 Mar 2023 16:57:56 GMT</lastBuildDate><item><title><![CDATA[Career]]></title><description><![CDATA[Now, we’re trying to form a company named “Odds” with engineers. To investor Native is our first product, and the next step is to verify…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/testdayo/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/testdayo/</guid><pubDate>Mon, 06 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;Now, we’re trying to form a company named “Odds” with engineers.&lt;/p&gt;
-&lt;h2&gt;To investor&lt;/h2&gt;
-&lt;p&gt;Native is our first product, and the next step is to verify Native’s needs and identify the growth potential of this business. In order to this step, we need to develop Native for verification and update the interface design and function of Native trial and error with many creators and media companies, so we need fund to form company and start these tasks.&lt;/p&gt;
-&lt;p&gt;Based on Native itself and my career so far and documents on this site, if you feel the potential of Native and our future and sympathy for our mission “contribute to society though fantastic products”, please contact us.&lt;/p&gt;
-&lt;h2&gt;To engineer&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 12 Mar 2023 08:26:53 GMT</lastBuildDate><item><title><![CDATA[Several reason why there had never been content similer to ln(linaer-native) so far.]]></title><description><![CDATA[Putting Native aside, in terms of linear-native, I assue that people will think like “Why didn’t the content based on a format looks like…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/the_reason_why/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/the_reason_why/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;Putting Native aside, in terms of linear-native, I assue that people will think like “Why didn’t the content based on a format looks like linear-format exsist so far?”. I want to mention this question here.&lt;/p&gt;
+&lt;p&gt;I guess there are two reasons. First, there was no enough environment for using video expression from technical aspect, and second is that there were a stereotype that animation and video expression is used in only video content.&lt;/p&gt;
+&lt;p&gt;I want to dig deep into the second  point.&lt;/p&gt;
+&lt;h3&gt;Magazine 2.0&lt;/h3&gt;
+&lt;p&gt;At the early age of Web, there were interesting movement called “Magazine 2.0” in Japan. At that time, people thought that they can make magazine richer by using web technologies. Then based on this idea, they used video and audio in a lot of web contents. However, this movement didn’t succeeded because they couldn’t offer people with safty viewing experience due to the expression-media which as own time axis such as video and audio.&lt;/p&gt;
+&lt;p&gt;I also thought that “there is probably a way enable people to use video and audio in web-article” like them, and I also realized that it’s hard to sustain the user experience with these expression-media and scroll interaction.&lt;/p&gt;
+&lt;p&gt;I think I could solve this problem by linear-native eventually by spending so long time, but I guess, right now people feel linear-native is really simple and they could find the idea. But it was difficult to find this format from scrach for me. So I think it’s not something of wonder that there is not any content as linear-native so far. (I don’t think I’m genius, but.. you know? I’m proud of this invention.)&lt;/p&gt;
+&lt;h3&gt;The early rise of YouTube&lt;/h3&gt;
+&lt;p&gt;In additon, the existance of YouTube was really influencial in content creation. I think because of YouTube, people have had stereotype that animation and video expression is used in only video content creation. The history of YouTube is actually long and it was started in 2005. I suppose that was the time before the rise of democratization of video creation.&lt;/p&gt;
+&lt;p&gt;As I mentioned in the paragraph above, it’s hard to manage video file ourselves, and YouTube was the solusion. YouTube provide the contents warehouse for creators and monetize by advertisement in UGC. This is their business model and it was VIDEO FILE WAREHOUSE from the beginning, so people had thought that they need to create video content when they want to tell something with animation and video expression. But these are created in web article actually…..&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Nativeはさておき、リニアネイティブに関して想定される感想として「ここまでシンプルで抜本的なフォーマットが今までどうして存在しなかったのか」という疑問が浮かびます。&lt;/p&gt;
+&lt;p&gt;これについて僕が考察するに、主な理由は２つあります。ひとつは、そもそも映像表現を記事ごとに用いられるほどの環境が今日まで安定してはいなかったこと。そしてもうひとつは、そもそも映像表現は映像コンテンツにのみ用いられるものである、という固定観念が浸透していたことが考えられます。&lt;/p&gt;
+&lt;p&gt;ここでは特に２点目について掘り下げたいと思います、&lt;/p&gt;
+&lt;h3&gt;雑誌2.0&lt;/h3&gt;
+&lt;p&gt;実はWebが台頭してきた初期に「雑誌2.0」という動きがあったそうです。これはWebによってコンテンツがもっとリッチにできることから、アナログな雑誌をリッチなデジタルコンテンツにできるのではないか、というアイディアがもととなっており、当時リッチコンテンツが多く生産されました。しかしこれらはオーディエンスの操作性を低下させたり、安全な視聴体験を提供できなかったことを理由に衰退の一途をたどりました。&lt;/p&gt;
+&lt;p&gt;私も先人と同じように「Web上で映像や音声をもっと用いる方法がきっとある」と考えて、新しい汎用的なコンテンツのフォーマットを追求してきました。正直、以下の動画や資料にもあるように、これは案外難しいものでした。映像と音声は自身が時間軸を持っているため、オーディエンスのスクロールなどのインタラクションとこれらを同じコンテンツ上で保護することは非常に困難です。&lt;/p&gt;
+&lt;p&gt;結果的には現在の「リニアネイティブ」というシンプルなフォーマットで、この課題をクリアすることができたと考えていますが、出口からみれば「そこまで難しいことなのだろうか」と感じるかと思います。しかし、ここまでシンプルに汎用的なデザインを見つけることは、入口から見ると非常に遠いゴールだったように思います。&lt;/p&gt;
+&lt;p&gt;僕のひとつの功績は、この汎用的なフォーマットを整理し切ったことだと考えていて、これまでこのようなコンテンツがなかったことに、僕自身は勝手に納得がいっています（とはいっても大したことはしていないですが）&lt;/p&gt;
+&lt;h3&gt;早かったYouTubeの台頭&lt;/h3&gt;
+&lt;p&gt;また、クリエイターの立場に立ったときに「映像表現 = 映像コンテンツ」という固定観念が築かれた要因は「YouTube」にあると考えています。YouTubeの台頭は2005年とかなり古く、今日までオンデマンドの映像コンテンツが民主化されるよりずっと前から「映像のありか」として存在してきたのがYouTubeです。&lt;/p&gt;
+&lt;p&gt;これまで僕が提案するようなコンテンツがなかった理由として技術的な環境に課題があったと述べましたが、YouTubeはこの課題を解決するものでした。人々は自分でサーバーを抱えることが大変なので、コンテンツの置き場を提供し、UGCの広告でマネタイズをするのがYouTubeの根幹のビジネスモデルで、個人の発信が民主化するよりも前にそれが存在していたことが、「映像表現をする = 映像コンテンツを作る（単一の動画ファイルにする）」「記事はテキストと画像、映像や音声を使いたければ動画コンテンツを作ってYouTubeにアップロードする」といった当たり前を形成していったのだと考えています。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Make Web better though Native.]]></title><description><![CDATA[When we promote linear-native, there is a question that “is it possible to provide stable viewing experience for the audience?”. As this…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/native_and_web/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/native_and_web/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;When we promote linear-native, there is a question that “is it possible to provide stable viewing experience for the audience?”.&lt;/p&gt;
+&lt;p&gt;As this question insists, if creator can’t offer decent experience to the audience, it can be meaningless in using linear-native even if it’s good format. So we have to face with the issue that “How to enable creator to offer stable and powerful viewing experience to the audience”. Accordingly, I also want to change people’s stereotype about Web.&lt;/p&gt;
+&lt;p&gt;I’d had bad impression of Web as underground. there are a lot of advertisement, weird page translation, scattered articles in order to the PV, corporate site require acceptance of cookies and so on. Anyway I think there is no enough “order”. Of course sometimes these are not Web’s problem, but I assume that Web can be better place and we can change people’s impression.&lt;/p&gt;
+&lt;p&gt;Linear-native is a brand new content-format enable us to use all expression-media in writing and the number of video and audio in Web will be increased. However, I don’t intend to complicate Web.&lt;/p&gt;
+&lt;p&gt;I just want to create Web which is considerate of ceator-side and audience-side. I know it’s hard to imagine. For example, in the most case, people consume web article in short time with scrolling right now, but I presume there can be a experience that stop scrolling and watch it in the middle of the article.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;リニアネイティブを浸透させる上で一つハードルになるのは「そこまで安定した視聴体験を提供できるのか」という問題です。&lt;/p&gt;
+&lt;p&gt;確かに仕組みとしては優れたフォーマットであっても、これが実際にオーディエンスに優れた視聴体験を提供できなければ、導入することは叶いません。今後はこのような「頑強で安定的なWebの視聴体験」を提供するために多くの創意工夫をする必要がありますが、僕がその先で目指しているのは、人々のWebに対するイメージの挽回です。&lt;/p&gt;
+&lt;p&gt;私は以前まで、「Web」と聞くとどこかアングラ（アンダーグラウンド）な印象を持っていました。広告が多かったり、変なページ遷移があったり情報の掲載場所が分散していたり、デバイスに最適化されたデザインがなされていなかったり、クッキーの承認を求められたり。挙げればキリがないですが、Webにはまだ「秩序」が欠けていると考えてます。&lt;/p&gt;
+&lt;p&gt;もちろんこれらにはコンテンツの制作側に問題があることも多い一方で、私はもっと構造的にWebをいい場所にしていけるはずだと信じています。そして、人々のWebに対するイメージが改善されると同時に、Webはこれまでよりはるかに豊かな場所になると考えています。&lt;/p&gt;
+&lt;p&gt;リニアネイティブは動画や音声を記事の中でもっと活用できる、新しい基礎的なデジタルフォーマットで、これによってプラットフォームの外に存在する動画や音声の数は大きく増加する可能性があります。しかし、私はこれによってWebをもっと複雑でアンバランスなものにするつもりはありません。&lt;/p&gt;
+&lt;p&gt;Webを規律のある豊かな場所にし、もっと作り手（オーディエンス）にも受け手（オーディエンス）にも寄り添ったWebを、僕は目指したいと考えています。それはイメージしづらいことだと思いますが、例えば、Webの記事の多くはスクロールによって短時間で消費されるイメージがありますが、例えば「立ち止まって見る」という体験がWebの記事にもあっていいはずです。なぜならYouTubeではそれが受け入れられているためです。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About anything.tokyo]]></title><description><![CDATA[anything.tokyo is a place anyone can post any message to us. You can send message anonymously. (We can’t replay, but read everything and…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/about_anything/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/about_anything/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;anything.tokyo is a place anyone can post any message to us. You can send message anonymously. (We can’t replay, but read everything and make use. )&lt;/p&gt;
+&lt;p&gt;Please share your idea about our company and feedback about Native however small. I do everything now so I want to know how it is from other people’s perspective. So please! Your idea must be the most beneficial.&lt;/p&gt;
+&lt;p&gt;We will keep the opportunity to discuss about various things openly with Odds’ insider and outsider from now on and I guess we can do something fun. For example if we adopt an idea to our business, we assign the person posted it in Anything(&lt;a href=&quot;http://anything.tokyo&quot;&gt;http://anything.tokyo&lt;/a&gt;) to the project team.&lt;/p&gt;
+&lt;p&gt;Anything: &lt;a href=&quot;http://anything.tokyo&quot;&gt;anything.tokyo&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;「anything.tokyo」は、我々Oddsに向けて、誰でもどんなことでも投稿できる場所です。匿名でメッセージ本文のみを送信することができます。（返信はありませんが、すべてに目を通し、今後のアクションや議論の参考にしたいです）&lt;/p&gt;
+&lt;p&gt;Oddsに関することやNativeについての意見や感想、その他些細なことでも、ご自身のアイディアをここへ共有してください。現時点では何事も僕自身が行っており、まだ色々わからないことだらけなので、率直なフィードバックなどください。それが一番僕らにとって有益なものになります。&lt;/p&gt;
+&lt;p&gt;今後もOddsはオープンな議論の場所を設けて、例えば社外からのアイディアが活きたら、その人をプロジェクトへアサインしたり、ロイヤリティを支払うようなこともしていけたら面白いと考えています。&lt;/p&gt;
+&lt;p&gt;Anything: &lt;a href=&quot;http://anything.tokyo&quot;&gt;anything.tokyo&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Odds' outline]]></title><description><![CDATA[Mission Odds Inc. is a company contribute to society through fantastic products, and there is only me… and actually “Odds Inc.” is…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/odds_outline/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/odds_outline/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h2&gt;Mission&lt;/h2&gt;
+&lt;p&gt;Odds Inc. is a company contribute to society through fantastic products, and there is only me… and actually “Odds Inc.” is unregistered.&lt;/p&gt;
+&lt;p&gt;Odds Inc. is an organization for PRODUCT, and we don’t think product is means of company’s growth. We are going to optimize team to create fantastic products as many as possible. In my plan, we will develop software and hardware and all our product will be original and authentic. Of course we also have to prepare environments around them and by continuing these business, I presume Odds will find own product’s core-value as “what is Fantastic?”, and it will have been a center part of Odds’ brand.&lt;/p&gt;
+&lt;h2&gt;Vision&lt;/h2&gt;
+&lt;p&gt;In terms of our direction, now my plan is that create many fantastic products and each product have own brand, and they are independent. I don’t intend to make “Odds’ brand” artificially. It should be something our customer feel naturally when they use our products.&lt;/p&gt;
+&lt;p&gt;I think you must be loser when you compete in terms of business. I don’t intend to insist on the importance of create brand new product to earn big money. I just want to say that it’s exactly meaningful to do something new. I don’t need self-satisfaction as re-create existing product to our preference. It’s meaningless. Odds should be a company create fantastic product which change the history irreversibly and everyone love. In addition, our vision is to become a important part of society enduringly.&lt;/p&gt;
+&lt;h2&gt;Take this opportunity to form subject&lt;/h2&gt;
+&lt;p&gt;I guess news about Native made you come here probably. I think Native is considered as Odds’ first product and that’s why I didn’t open-source Native. I mean I want to form subject that can continue to create many fantastic product on this occasion with engineers and investors who has same values and purpose.&lt;/p&gt;
+&lt;p&gt;Current Native’ quality is really low and everyone can buid it from scrach, but I think the most important thing is to form a team consist of people who has passion. As well as the talent blooms with hard work, any project can’t be done without pragmatic commitment of motivated people even if the idea was great.&lt;/p&gt;
+&lt;p&gt;I believe this Native’s launch will be an opportunity of people, who has passion for creating fantastic products, to become together.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/career&quot;&gt;Job Offer Info is here.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;ミッション&lt;/h2&gt;
+&lt;p&gt;Odds株式会社は「ファンタスティックなプロダクトで社会に貢献する」ことをミッションとする組織体で、現在社員はいません。また「株式会社」と言っていますが未登記です。&lt;/p&gt;
+&lt;p&gt;Oddsはプロダクトのための会社であり、会社自体が成長するためにプロダクトを手段として捉えるようなことはせず、常にファンタスティックなプロダクトをより多くの人へ提供するための組織の最適化を目指していきます。手がけるプロダクトはソフトウェア・ハードウェアで、現在発表している「Native」のように、オリジナリティーが高く本質を突いたプロダクトを開発し続けていきます。また、そのプロダクトに関連する環境の整備なども積極的に行います。またこれらの事業を継続することで、Oddsの持つ「Fantastic」という恒久的な価値観を醸成し、それがOdds製品のブランドになっていくと考えています。&lt;/p&gt;
+&lt;h2&gt;ビジョン&lt;/h2&gt;
+&lt;p&gt;会社の方向性としては、Odds製のプロダクトに共通要素を持たせてブランドを育てるのではなく、個々のプロダクトで独立して独自のブランドを形成し、一方でその研究・開発といった過程において見い出されてくる「Fantastic」という価値観が、すべてのプロダクトに宿るような、そしてプロダクトを触った時に「Oddsの製品だ」と分かるような、そんな将来的なラインナップを妄想しています。&lt;/p&gt;
+&lt;p&gt;ビジネスは競争をした時点で失敗です。それは利益を生むためには真新しいプロダクトを作る必要がある、と言いたいわけではなく、真新しいものを生み出すことにこそ大きな意味があるということだと思います。Oddsでは既存の製品を自分たちのプロダクトらしく再構築して発表するような、自己満足の事業はしたくありません。時代に不可逆な変化を与えると同時に、世界中の人に愛されるような、まったく新しいプロダクトを生み出し続ける、そんな会社にしていきたいと考えています。また、それが「ビジョナリー・カンパニー」のように、永続的な生態系として社会に機能するようになることは、Oddsとしての最終的な目標（ビジョン）です。&lt;/p&gt;
+&lt;h2&gt;Nativeをきっかけに「主体」を形成する&lt;/h2&gt;
+&lt;p&gt;これを見ている人はNativeをきっかけにここへアクセスしてきたと思いますが、OddsはNativeをあくまで会社の最初のプロダクトとして捉えており、Nativeをオープンソースにしなかったこともその理由のひとつです。その心は、Nativeをきっかけに、プロダクトを作ることに情熱を感じ、Oddsのビジョンに共感するエンジニアと投資家を集うことで「行動主体」を形成したい狙いがあります。&lt;/p&gt;
+&lt;p&gt;現在公開しているNativeは、Webデザイナーの卵だったファウンダーの村木が無理やり開発したもので、かなり完成度の低いものとなっています。正直誰でも模倣が可能なレベルですが、重要なのは「やる気のある人が集まること」です。才能を開花させるためにはしぶとい努力が必要であることと同じように、アイディアが優れていても、それを実現するためには「本気になれる人たち」による「実際的なコミット」が不可欠です。&lt;/p&gt;
+&lt;p&gt;今回のNativeの発表が、そんな「ファンタスティックなプロダクトを作ることに情熱を感じる世界のエンジニア・投資家」の方々と手を取り合うきっかけとなることを願っています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/career&quot;&gt;求人情報はこちらをご覧ください&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Impact of ln(Linear Native) Part.2]]></title><description><![CDATA[In “Linear Native’s Impact Part.1”, I described the overall structural change, but in terms of the contents itself, it will also be changed…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/ln_impact_2/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/ln_impact_2/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;In “Linear Native’s Impact Part.1”, I described the overall structural change, but in terms of the contents itself, it will also be changed due to linear-native especially in field which demand visual expression such as cosmetic and aparel and sports.&lt;/p&gt;
+&lt;h3&gt;Impact on entertainment&lt;/h3&gt;
+&lt;p&gt;In addition, linear-native will change anything in entertainment industry. This format is fundamental format invention, so it also can be a opportunity to re-think current existance of digital-content radically.&lt;/p&gt;
+&lt;p&gt;Specifically, the mobile comic’s market is really large, as “Web Tune”, which is Web comic platform based on Korea. There are “Web Tune creator” and sometimes the content in Web Tune became adapted into a movie in Netflix. Based on these fact, Web Tune has a big presence in entertainment industry.&lt;/p&gt;
+&lt;p&gt;Related to this topic, I guess there is a chance that these web-comic became richer with animation based on linear-native. I mean there should be more gradation between “Manga” and “Anime”. For example, there is a part of scene which should be expressed in animation and there is also a scene which should be expressed in manga format in one story. Therefore, in this way, I guess it’s good idea trying to tell a story with characteristics of each expression-media(text, image, video, audio) in single content.&lt;/p&gt;
+&lt;p&gt;The same can be said for novel &amp;#x26; live action. For example, if you re-make “The Great Gatsby” with parts of novel and parts of live action based on linear-native, the content can be the BEST storytelling of “The Great Gatsby” HAHA.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;「リニアネイティブのインパクト①」では大きな構造的な変化を記述してきましたが、もっとコンテンツ自体に視点を移せば、まず最初にコスメやアパレル、またスポーツなどのビジュアルが重要になる分野では、リニアネイティブが貢献できることが多そうです。&lt;/p&gt;
+&lt;h3&gt;エンターティメント業界へのインパクト&lt;/h3&gt;
+&lt;p&gt;加えて、エンターティメントの視点に立っても、リニアネイティブは産業に何かしら変化をもたらすはずです。リニアネイティブは基礎的なデジタルフォーマットの発明で、つまりはコンテンツを「フォーマット」という最もファンダメンタルな場所から見直すきっかけになります。&lt;/p&gt;
+&lt;p&gt;具体的には、韓国などを中心に多く試聴されるWeb漫画の「ウェブチューン」ですが、スマホ漫画の市場規模は非常に大きく、例えばウェブチューンのクリエイターもいれば、そこで公開された作品がNetflixなどで映像化されて話題になるなどのケースも多くみられ、これらはエンターティメント産業の中でもかなり大きな存在です。&lt;/p&gt;
+&lt;p&gt;そこで、例えばウェブチューンのような漫画コンテンツは、リニアネイティブに基づいてもっと映像表現を取り込んだリッチなコンテンツになり得ないだろうか、といった考えが浮かびます。&lt;/p&gt;
+&lt;p&gt;つまり「漫画とアニメ」という関係があったときに、この間にはもっとグラデーションがあっていいのではないか、ということです。例えば、ひとつのストーリーの中にも、映像で表現した方がいいシーンがあれば、オーディエンスにじっくり読ませたいシーンもあるはずです。このような「表現メディアごとの特性」を折衷して「最も作品の良さが伝わりやすいストーリーテリング」があってもいいはずです。&lt;/p&gt;
+&lt;p&gt;これは漫画とアニメに限定されず、例えば原作の小説とその実写版の映画でもいいはずです。例えば、小説の『華麗なるギャツビー』と映画化された『華麗なるギャツビー』の両方をNative上で取り込んでひとつのコンテンツにしたら、それは「一番面白い『華麗なるギャツビー』」になりうるのではないか、というアイディアで、例えばこのようなリメイクは第三者が行ってもいいわけです。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Impact of ln(Linear Native) Part.1]]></title><description><![CDATA[Build a bridge between the insde of platform and outside of it Not only in Native, linear-native will be used in many cases. In this article…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/ln_impact_1/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/ln_impact_1/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;Build a bridge between the insde of platform and outside of it&lt;/h3&gt;
+&lt;p&gt;Not only in Native, linear-native will be used in many cases. In this article, I want to describe my thought about linear-native’s influence in near future from structual perspective.&lt;/p&gt;
+&lt;p&gt;From the beginning of this project, I’ve thought about the relation between the inside of platform and outside of it, and I also have felt that there is a wall. The contents in platform have never been re-use in outside(except embedded case) and the contents in outside have never been uploaded to platform. (Any “channel” and “account” in platform are independent from the outside and there is no data communication between inside and outside.)&lt;/p&gt;
+&lt;p&gt;However, recently the wall have came to broken. Specifically, people upload a part of the content to the platform with URL of the main content. (Obiously major labels had done this way in the early year, but this I’m talking about the indivisual creator’s way.)&lt;/p&gt;
+&lt;p&gt;Considering this fact, we seem to be able to say that main content have been managed by owner(creator). But I guess almost people has never do this.&lt;/p&gt;
+&lt;p&gt;As THETA.tv(&lt;a href=&quot;http://THETA.tv&quot;&gt;http://THETA.tv&lt;/a&gt;), I mentioned In the following video, recently the overall structure of digital contents have been getting to be ideal as “Web3.0” says. Also the number of creator who manage own content himself  in the outside of platform will be increased. At the time, how will the platform’s position become changed? In my opinion, one of the scenario is that creators manage their contents and upload a part of them to platform as adversisement. In other words, I assume current big platforms will be used as a resource for creator’s benefit.&lt;/p&gt;
+&lt;p&gt;There are strong AI recommendation function in each platforms, and people spend so long time becase of it. However, If creators start utilize this function, how do you think? Audience find content in platform and watch it in outside. So creators and audiences can get benefit from platform. I guess we can easily imagine this flow and put this simply, current platforms will have came to be as qurator.&lt;/p&gt;
+&lt;p&gt;LInear-native and Native will accelerant this flow. For example, people will extract a part of video scene of content based on linear native written on Native and upload it to TikTok. The same can be said for images&amp;#x26;pinterest. Fortunately there are exclusive platform every expression-media(text, image, video, audio), so I think those platform will be useful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;プラットフォームの内側と外側に橋をかける&lt;/h3&gt;
+&lt;p&gt;リニアネイティブの概念を踏まえて、Nativeを用いずともこのフォーマットに基づいたコンテンツが今後生まれてくることは考えられますが、もう少し構造的な観点でも、リニアネイティブは変化を生み出せると考えています。&lt;/p&gt;
+&lt;p&gt;私は「プラットフォームの内側と外側」という関係を強く意識してきたのですが、一つ感じることは、このふたつの間には大きな壁が存在するということです。プラットフォームのコンテンツが外に出ることはなく（記事に埋め込みが多くされたりするのでこれはなんとも言えませんが）、反対にプラットフォームの外にあるコンテンツがプラットフォームの中に入ることはありません。（プラットフォームの中にある「チャンネル」や「アカウント」はすべて独立していて、プラットフォームの外に存在するそれとは切り離されて存在しています）&lt;/p&gt;
+&lt;p&gt;しかし、近年はこのプラットフォームの内側と外側がコンテンツ単位でリンクされることも増えてきました。具体的には「無料公開シーン」と「この先は有料なので概要欄のリンクから購入してください」と外部のURL（そのプラットフォームの外）へアクセスさせるような動線が貼られるようになってきました。（もちろん大手レーベルなどは初期にこの手法をとっていましたが、ここでは個人のクリエイターの場合を対象にしています）&lt;/p&gt;
+&lt;p&gt;これを「メインのコンテンツがクリエイター自身の管理下に置かれるようになってきた」と捉えることもできますが、そもそも「クリエイターがコンテンツを自分で管理する」というケースはまだまだ少ないです。&lt;/p&gt;
+&lt;p&gt;以下の動画ではTHETA.tvを例に挙げていますが「Web3.0」という言葉に象徴されるように、近年はこのような「理想的な構造」が実現に向かいつつあり、今後プラットフォームの外でクリエイターがコンテンツを管理するケースはますます増えていくと考えています。その時、現在多くのコンテンツを管理しているプラットフォームたちの位置付けはどのように変わっていくのでしょうか。ひとつの展開として、例えばコンテンツをクリエイター各々が管理し、その一部を各プラットフォームに広告的に公開するような、プラットフォームの「使われ方」が増えていくように考えられます。&lt;/p&gt;
+&lt;p&gt;現在のプラットフォームではAIのレコメンデーション機能がその中核を担っており、これによってオーディエンスのプラットフォーム上での滞在時間を引き伸ばすことに成功しています。しかし、このプラットフォームのレコメンデーション機能を、クリエイターが利用し始めるようになったらどうでしょうか。コンテンツはプラットフォームの外に置かれ、オーディエンスはプラットフォームの外でコンテンツを視聴するようになる。そして新しいコンテンツと出会うためにプラットフォームにアクセスし、クリエイターとともにAIのレコメンデーションの恩恵を受ける。このようなシナリオは容易に想像でき、これは簡潔に言えば「プラットフォームのキュレーター化」が今後進んでいくのではないかと考えています。&lt;/p&gt;
+&lt;p&gt;リニアネイティブはNativeとともに、この動きを加速させると考えており、例えば記事の中の映像箇所を切り出してTikTokに公開したり、画像数枚をまとめてInstagramに投稿する、といったことが考えられます。記事の中に複数の表現メディアがあっても、表現メディアごとに存在するプラットフォームUIを含め、その表現メディアに最適化されているため「利用のしがい」があるといえるでしょう。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Awareness of problem]]></title><description><![CDATA[I summarized the problems people have in contents industies below, but actually I don’t understand what Naive is, and what will be changed…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Awareness of problems/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Awareness of problems/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;I summarized the problems people have in contents industies below, but actually I don’t understand what Naive is, and what will be changed by Native.&lt;/p&gt;
+&lt;p&gt;“How the world will be better by Native”. This is a big issue and we can’t identify the answer without pragmatic actions from now on. The following summary is just for reference purposes.&lt;/p&gt;
+&lt;h2&gt;My lots of questions&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
@@ -20,7 +109,7 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;&amp;quot;figuration&amp;quot;&quot;
+        alt=&quot;img_1&quot;
         title=&quot;&quot;
         src=&quot;/static/6e680821fca9ea51ad48b9a8f32d2bdf/f058b/art_1.png&quot;
         srcset=&quot;/static/6e680821fca9ea51ad48b9a8f32d2bdf/c26ae/art_1.png 158w,
@@ -35,371 +124,266 @@
         decoding=&quot;async&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
+    &lt;/span&gt;;&lt;/p&gt;
+&lt;p&gt;in the image above, there are my questions in terms of current digital contents industies. These are not particular message, but I guess I can share my original perspective with you.&lt;/p&gt;
+&lt;h2&gt;Invonvenience in writing&lt;/h2&gt;
+&lt;h3&gt;“Why YouTuber can’t write article with video expression?”&lt;/h3&gt;
+&lt;p&gt;This s a story symbolize how current writing style OLD.&lt;/p&gt;
+&lt;p&gt;Today, there are a lot of YouTuber in the world, and they also have chance to write something. And when we read them, we realize immediately that all of them are consist of TEXT and IMAGE, and there is no animation and video expression.&lt;/p&gt;
+&lt;p&gt;I suppose most of YouTuber has great ability to tell something through video expression, so I guess they should write article with it. This is nonsense.&lt;/p&gt;
+&lt;h3&gt;“You can’t tell your story how you want to tell”.&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bfa33d776f5128a7a2abe24aa93786e1/29114/art_2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABFklEQVR42n2SWZLDMAhEcwNLbFrGSTmpuf8VewqcRV4mHxR2Cz0D7gsRwSPn/M4ppcgvbawZz0Mb7npc9jAVQa0VqjpAVgAzw8xQSolz12m4+wa+BBZFv94xzzNqqesFIljtkR3oH2utobYOtbaB7YAJpg3EAhFFtTmevdh1YX2OutYrF4jYZroDsGgHE0NY0PsCLT0KHVbqvNmn2dph/tZh0RZAD5OKlKbPbq2ithuYJTo1rSj+LvoN6B1KAP15LMwpgZjRfx4gP7eO0q7vPZ8AfTSL4vgBxMh0tI2PT7GWNe+tdbDNPqZpGvz3sdDo039GPnajZljuv2EX15bbA2Zlu4qzDs9i9aWgtf7UcnhTRA6QEfgHu5EMLdFrgGQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;img_1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bfa33d776f5128a7a2abe24aa93786e1/f058b/art_2.png&quot;
+        srcset=&quot;/static/bfa33d776f5128a7a2abe24aa93786e1/c26ae/art_2.png 158w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/6bdcf/art_2.png 315w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/f058b/art_2.png 630w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/40601/art_2.png 945w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/78612/art_2.png 1260w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/29114/art_2.png 1920w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;;&lt;/p&gt;
+&lt;p&gt;I think current writing style is just OLD.  The left side in image above, this is a figure represent current writing process. At first, you write article in text editor, and edit video in video editor, then finally you embedded the edited video in the article. By doing this, you think “OK, I could create article with video!”. But… is it enough?&lt;/p&gt;
+&lt;p&gt;Please think. What is the difference between TELOP in video and SENTENCE in article?&lt;/p&gt;
+&lt;p&gt;What I want to say is that, as the right side of image,  “if you need video in your content, you should write content and edit video and add telop in one process on the same editor”.&lt;/p&gt;
+&lt;p&gt;“Video content creation” is a process which cram everything in a 1920px * 1080px square. I don’t think it always can be the best way.&lt;/p&gt;
+&lt;h2&gt;High cost&lt;/h2&gt;
+&lt;p&gt;Today, we live in “Video Era”. Many Web media has official YouTube cnannel and TikTok account, and plan a lot of contents and create them every platform. This flow seems to be natural, but if I had to say, “Is it really true that all web media have to create different content for each platform besides contents in web media?”.&lt;/p&gt;
+&lt;p&gt;For example, If they can create content for web media with video, there will be the case that they don’t need to create content for each platform. Of course using platform is beneficial to increate user flow, so for example, they can clip a part of content based on linear-native and upload it to platform. I guess it’s really hard and costly to create content for each platform and Native will solve it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;以下、コンテンツ産業において人々が抱えている課題を簡潔に整理していますが、現時点で、私自身Nativeがどのようなものか理解ができていないし、これによって生まれる新たな「当たり前」がどのようなものなのかも計り知ることは困難である。
+「Nativeがどのように社会を良くするか」は実際に手を動かしていく過程で明らかになっていくものであるため、以下は参考までに留めていただきたい。&lt;/p&gt;
+&lt;h2&gt;私が思う疑問&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e4a16f2055d430070d8b63dab14bc4d2/29114/art_3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABLUlEQVR42l2TWY6DQAxEuQGBsO8hyqYAyg/3P5pHz1K1WvNRcS+VctltkizL7HK5ONI0DVFr7kGe54HH+nq9hjvxOE+qqjIwDIPdbjcbx9Eej4fd73drmsbKsnQigPN6vWzfd8e2bfZ+v/0cDUSTruv8gDhNk/V978LzPPueczmp69ratvWIAAm1luNEZcSl4ookgAQI4xwURRHaESOUzI8cxMAZLhFZlsUj4jgiIcKC9i6IOnZjEnuVECeES5Lv9xv693w+va9UEx6Fy/M87TgOb/bv9/OHIQlCRIA79UyQ49BDDilPDVYJWkOS87hcRfE0CUk8h1zoMSDGsyYevfx8Pl4uETAVYWykDOgPBPqyrmsg6V6jI1fcxzEI6k8aYj3K/4eJv5b4C4nH5g9pxRZuQ/Kh2QAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;img_1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e4a16f2055d430070d8b63dab14bc4d2/f058b/art_3.png&quot;
+        srcset=&quot;/static/e4a16f2055d430070d8b63dab14bc4d2/c26ae/art_3.png 158w,
+/static/e4a16f2055d430070d8b63dab14bc4d2/6bdcf/art_3.png 315w,
+/static/e4a16f2055d430070d8b63dab14bc4d2/f058b/art_3.png 630w,
+/static/e4a16f2055d430070d8b63dab14bc4d2/40601/art_3.png 945w,
+/static/e4a16f2055d430070d8b63dab14bc4d2/78612/art_3.png 1260w,
+/static/e4a16f2055d430070d8b63dab14bc4d2/29114/art_3.png 1920w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;;&lt;/p&gt;
+&lt;p&gt;上記は私が今のコンテンツ産業において不思議に感じる点について並べたものである。これらは何かを明確に指し示すものではないが、私がどのような視角でNativeを構想したのかを感覚的に共有することができると思う。&lt;/p&gt;
+&lt;h2&gt;体験の不都合&lt;/h2&gt;
+&lt;h3&gt;「そもそもYouTuberがどうしてテキストと画像だけで記事を書かなきゃいけないのかわからない」&lt;/h3&gt;
+&lt;p&gt;これは現代の「執筆」の古めかしさを象徴する話である。
+「YouTuber」という職業が生まれて久しいが、動画の撮影・編集を生業としている彼らにも、筆を取る機会はある。そして、彼らの書いたブログ記事などに目を通すと、そに映像表現が少しもないことに気付く。
+映像で伝えることが得意な彼らも、記事を書こうとするとテキストと画像しか使えないとは、一体どういうことなのだろうか。&lt;/p&gt;
+&lt;h3&gt;「伝えたいことを、伝えたいように伝えられる状態に至っていない」&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bfa33d776f5128a7a2abe24aa93786e1/29114/art_2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABFklEQVR42n2SWZLDMAhEcwNLbFrGSTmpuf8VewqcRV4mHxR2Cz0D7gsRwSPn/M4ppcgvbawZz0Mb7npc9jAVQa0VqjpAVgAzw8xQSolz12m4+wa+BBZFv94xzzNqqesFIljtkR3oH2utobYOtbaB7YAJpg3EAhFFtTmevdh1YX2OutYrF4jYZroDsGgHE0NY0PsCLT0KHVbqvNmn2dph/tZh0RZAD5OKlKbPbq2ithuYJTo1rSj+LvoN6B1KAP15LMwpgZjRfx4gP7eO0q7vPZ8AfTSL4vgBxMh0tI2PT7GWNe+tdbDNPqZpGvz3sdDo039GPnajZljuv2EX15bbA2Zlu4qzDs9i9aWgtf7UcnhTRA6QEfgHu5EMLdFrgGQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;img_1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bfa33d776f5128a7a2abe24aa93786e1/f058b/art_2.png&quot;
+        srcset=&quot;/static/bfa33d776f5128a7a2abe24aa93786e1/c26ae/art_2.png 158w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/6bdcf/art_2.png 315w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/f058b/art_2.png 630w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/40601/art_2.png 945w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/78612/art_2.png 1260w,
+/static/bfa33d776f5128a7a2abe24aa93786e1/29114/art_2.png 1920w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;;&lt;/p&gt;
+&lt;p&gt;現代の執筆体験はとにかく「古い」。図の左は、現代の執筆スタイルを表したものである。これが示すところは、なぜ「動画ファイルを動画編集ソフト上で編集し切って、それを最後に記事の中へひとつ埋め込む」ことで「記事の中で動画が使えた」という気になれるのだろうか、ということだ。果たして動画編集における「テロップ」と、記事の「文章」、この両者を書いている時間に違いはあるのだろうか。
+私が言いたいことは、「最後に動画を記事に設置するなら、最初から動画編集と記事の執筆を同じエディター上で行った方が、伝えたいことをベストな形にできるはずだろう」ということだ。（図右）「動画コンテンツ」を単体で成立させるということは、すべての情報を1920px * 1080pxの四角形の中に詰め込むことで、それが常に賢いとは思えない。&lt;/p&gt;
+&lt;h2&gt;コストがかさむ&lt;/h2&gt;
+&lt;p&gt;「動画の時代」と言われる今、現在のWebメディアは自身のYouTubeチャンネルやTikTokチャンネルを設け、ここへ「そのチャンネル用のコンテンツ」をWebメディアとは別に企画・制作している。
+これは当然の流れとも言えるが、あえて指摘するなら「本当にすべてのWebメディアが、各プラットフォームのチャンネルを律儀に運営していく必要があるのか」という疑義が浮かぶ。&lt;/p&gt;
+&lt;p&gt;例えば、Nativeを用いてWebメディアの記事において動画や音声を扱えるようになったら、YouTubeチャンネルやTikTokのアカウントを持つ必要がなくなるケースも多くありそうだ。少なくとも、各プラットフォームからWebメディアへの流入を促すために、広告的にコンテンツの一部をチャンネルに公開していくことは今後も続くだろうが、わざわざWebメディアとは別にコンテンツを企画・撮影・編集するのはなかなかのコストで、ここは改善できそうだ。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Business Idea]]></title><description><![CDATA[Native is an interface we can write anything freely with text, image, video and audio. This business’ purpose is to find “native writing…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/business_idea/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/business_idea/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;Native is an interface we can write anything freely with text, image, video and audio. This business’ purpose is to find “native writing” and provide the best of writing experience for everyone in the world.&lt;/p&gt;
+&lt;p&gt;Native: &lt;a href=&quot;http://native.hn&quot;&gt;native.hn&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Nativeは、テキスト・画像・映像・音声のすべてを自由に用いて執筆ができるインターフェース。この開発を通じて「本来の執筆の姿」を追求し、世界中の人々に「最高の執筆体験」を提供し続けることが、この事業の目的です。&lt;/p&gt;
+&lt;p&gt;Native: &lt;a href=&quot;http://native.hn&quot;&gt;native.hn&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Business model]]></title><description><![CDATA[I haven’t decided technically, I have two step. First is to sell Native as outright porchase and increase the number of Native user. Then…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/business_model/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/business_model/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;I haven’t decided technically, I have two step. First is to sell Native as outright porchase and increase the number of Native user. Then, we focus on developing Native and paid optional function.&lt;/p&gt;
+&lt;p&gt;In addition, if we provide writing environment around Native, it will be related business. *I’ve not consider concreate plan. I want to build team and discuss about this topic.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;まだ決め切れてはいないものの、大きく２つの段階を考えている。&lt;/p&gt;
+&lt;p&gt;ひとつはNativeそのものの有料販売。サブスクリプションにはせずに買い切りのモデルにして、まずNativeユーザーの母数を増やす。&lt;/p&gt;
+&lt;p&gt;以降はNativeの改良と、オプション機能の有料販売で利益を得ることを考えている。またNativeの周辺の環境を整えていくことで、Nativeと関連する「外」でマネタイズが叶うはずだ。（具体的な構想は未定。これからチームを集い、議論を重ねる必要があり、僕の勉強不足である）&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Market size]]></title><description><![CDATA[When we try to identify Native’s market size, we have to clarify concreate Native’s target and calculate how much they spend money to create…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/market/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/market/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;When we try to identify Native’s market size, we have to clarify concreate Native’s target and calculate how much they spend money to create content. Anyway, I can’t suppose the amount of it.&lt;/p&gt;
+&lt;p&gt;However, I can describe my opinion in terms of the “FLOW” in digital content market in near future. For example, “Substack”, which  is called as representative service of creator economy, has many user and you can “write and earn” in there. Considering this fact, I can say that people still want to write something and read it in this “video era”.&lt;/p&gt;
+&lt;p&gt;There is also “Ghost”, people can create content own way and manage them, is also new platform for creators. In my opinion, in this era, it’s more important to create content your own way than try to optmize the content to the audience.&lt;/p&gt;
+&lt;p&gt;For example, the advance in AI technology is exponentical expecially text summarization. So it will be needless work that create content optmized to the audience as market-in. Therefore, creators need to plan content following their own idea and create their own way as product-out in near future, and the amount of the needs of Native will increase.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;現時点で、Nativeの市場規模がどれくらいなのかを算出するためには、具体的なターゲットを特定して、そこでコンテンツ産業にどれくらいのコストがかかっているかを知る必要があり、Nativeのニーズ検証が進んでいない今は、大枠でしかこれを捉えることはできない。&lt;/p&gt;
+&lt;p&gt;ただ、市場の「流れ」を掴むことはできる。例えば「Substack」はクリエイターエコノミーの象徴的なサービスだが、これは「書いて稼ぐサービス」である。つまるところ、Substackに多くのニーズがあったことから、人々はこの動画の時代にも、依然として「書きたがっている」し「読みたがっている」ことがうかがえる。
+またクリエイター自身がコンテンツを自分らしく制作し管理できる「Ghost」なども話題になったが、私が考えるに、これから重要なのは、クリエイターが「自分らしさ」をどれだけコンテンツに落とし込めるかだ。つまり「オーディエンスの立場になって情報を効率的に届ける努力」よりも「クリエイターの視点で、クリエイター自身が伝えたいことを伝えたいように伝える努力」が重要になってきているのではないだろうか。&lt;/p&gt;
+&lt;p&gt;例えばAIによる情報の要約技術は驚愕的なペースで進歩していて、ニーズにコンテンツを合わせていくマーケット・インの産業は、人間の仕事ではなくなってくる。したがって、今後コンテンツの制作側は「オーディエンスに合わせにいくマーケットイン」よりも「オリジナルなコンテンツでファンを獲得する」ようなプロダクトアウトに思いっきり舵を切るのが自然で、これは「伝えたいことを伝えたいように伝えられる」Nativeにとっては追い風になると言えそうだ。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Milestone]]></title><description><![CDATA[At first, we try to raise capital from angel investors in order to identify the concreate needs of Native, then build Native with enginners…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/milestone/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/milestone/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;At first, we try to raise capital from angel investors in order to identify the concreate needs of Native, then build Native with enginners. After that, we will focus on verification and idenfity the market size. Then, if we find the business idea which has high growth potential, we will raise capital again from VC and start development seriously aim to Native’s authentic version release.&lt;/p&gt;
+&lt;p&gt;If we have done all these steps, the next step will be developing Native’s optional functions and integration between Native and other services and platforms, and environment related to Native.&lt;/p&gt;
+&lt;p&gt;Whatever, our purpose is to offer people the best writing experience and make WEB better place.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/career&quot;&gt;Job Offer Info is here.&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;まずエンジェル投資家からNativeの具体的なニーズを検証するための資金を調達し、エンジニアとチームになってNativeをブラッシュアップする。それから具体的にターゲットを鮮明にしていく検証過程に入って、市場規模などを算出。それ以降議論を重ね、事業として成長が望めればVCからエクイティを入れてNativeを本格的に開発・正式にリリース。&lt;/p&gt;
+&lt;p&gt;これより先はNativeのオプション機能の実装や外部との連携を進め、Nativeと関連する「環境」そのものの変革にもコミットする。&lt;/p&gt;
+&lt;p&gt;いずれにせよ、Nativeの開発を通じて、人々に世界で最高の執筆体験を提供すると同時に、Webをより豊かなものにしていくことが事業の根幹である。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/career&quot;&gt;求人情報は「求人」をご覧ください。&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Necessity of ln(Linear Native)]]></title><description><![CDATA[When you look to the outside of platform such as YouTube and TikTok, you will realize that there are no video and audio. I felt this…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/necessity_of_ln/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/necessity_of_ln/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;When you look to the outside of platform such as YouTube and TikTok, you will realize that there are no video and audio. I felt this circumstance is weird.&lt;/p&gt;
+&lt;p&gt;In terms of current writing, we can’t use video and audio freely, and this is one of the cause of this contrast between the inside of platform and outside of it. By providing a chance to utilize linear-native, which we can use video expression and audio in article based on it, I suppose we can empower people’s creativity.&lt;/p&gt;
+&lt;p&gt;I guess this idea is to try to make the existance of digital-content become its true natrure, and I don’t intend to complicate it. I think linear-native will be something fill a lack of contents industry.&lt;/p&gt;
+&lt;p&gt;The pros of Native I think is as follows.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;You can write article with video and audio.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can create video content wtih no space limitation thanks to user scrolling.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition, you can get huge benefit from web technology if you create content based on linear-native. The concreate idea are as below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;You can create make your content richer with visualization by creative coding.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In terms of audience’s UX, they will be able to find the exact scene of video by searching its telops with “command + F” command. *on linear-native, video’s telop is drawn as HTML.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Related to above annotation, browser’s auto translation function can translate telops in video expression, not only article’s sentense.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;YouTubeやTikTokなどのプラットフォームが盛り上がりを見せている今の時代、プラットフォームの外に目を向けてみると、そこはテキストと画像で構成されていることがほとんどであることに気付く。私はこの実情を「不自然」に感じる。
+このプラットフォームの内側と外側にある「表現メディアの隔たり」は、「今の記事では動画と音声を使うことができない」点が大きな要因のひとつだと私は考えています。&lt;/p&gt;
+&lt;p&gt;私は「動画と音声を取り込める、基礎的でまったく新しいフォーマット」である「リニアネイティブ」を人々に提供することで、彼らの創造性に寄り添うことができると考えています。それはつまり、デジタルコンテンツのあり方を「本来の形に戻す」という後ろ向きの矢印であって、さらなる複雑化を人々に強要するような前向きの矢印ではありません。 根本的に我々に欠けていたものを、リニアネイティブによって埋めることができるはずです。&lt;/p&gt;
+&lt;p&gt;以下の２点は、リニアネイティブを導入することの明確なメリットである。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;記事の執筆に映像や音声を活用できるようになる&lt;/li&gt;
+&lt;li&gt;映像表現の中で、Webに従来から備わっている「スクロール」というインタラクションを用いることができるようになり、コンテンツのスペースに際限がなくなる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;また、Webコンテンツの中で動画や音声をもっと自由に扱えるようになれば、それだけWebのテクノロジーの恩恵を受けられる。具体的には以下の３点。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;クリエイティブコーディングを活用するなど、ビジュアライズの面でよりリッチなコンテンツが作れる&lt;/li&gt;
+&lt;li&gt;オーディエンスのUXに期待される動作として、例えば command + F でキーワード検索をした際に、特定の映像の再生地点を見つけることができるようになるはず&lt;/li&gt;
+&lt;li&gt;技術的には翻訳などもHTMLでテロップが記述されていることから、現存のブラウザの自動翻訳機能を用いて、映像箇所においても言語対応が可能になる&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Necessity of Native Part.1]]></title><description><![CDATA[When I planed Native, I had felt something wrong about current writing mainly at three points and Native will solve thesse inconvenience…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/necessity_of_native_1/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/necessity_of_native_1/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;When I planed Native, I had felt something wrong about current writing mainly at three points and Native will solve thesse inconvenience.&lt;/p&gt;
+&lt;h2&gt;Creator’s content have to be managed on platforms&lt;/h2&gt;
+&lt;p&gt;In the most case, content const of video and audio tend to be managed on platforms such as YouTube and TikTok and Instagram and so on.  However, I guess this structure looks weird from Web3.0 point of view I guess. Originally, creator’s content should be managed by creator and this is not smart from cash flow perspective and privileges perspective. For example, creator have to follow the policy each platforms have. This is not fair.&lt;/p&gt;
+&lt;h2&gt;About the necessity for creating video content&lt;/h2&gt;
+&lt;p&gt;In YouTube, there are many interesting contents. For example, as below, a video capture a slide show consist of images, and a video consist of only text. I don’t have any opinion about those, but I felt that “People import these elements into video editor and create video, then finally upload it to YouTube…. does this long process takes time and effort?”.&lt;/p&gt;
+&lt;p&gt;I mean if you use Native, you can express your idea as these video smoothly and fast without video editor. Also you don’t need to cram evey information and all elements into A 1920 * 1080 square. You can create content with not space ristriction.&lt;/p&gt;
+&lt;h2&gt;A split in one media&lt;/h2&gt;
+&lt;p&gt;I’d been aware of relation between inside of platform and outside of it and the turning point was a realization to a characteristic of several web media as below.  These web media have own YouTube channel and have been created exclusive content for it, and contents in original web media are different from them. On one hand they create text-based content, and on the other hand, they create video content. There are people who want to enjoy their content by reading, so it’s worth translating video content in YouTube into text-based article in original web media. However, in the most case, the contents in YouTube and content in original web media are totally different.&lt;/p&gt;
+&lt;p&gt;I think they should re-use the video content also in original web media. If they could do it, I suppose some web media would stop management of YouTube Channel, because they just want to offer video expression to the audience. However they couldn’t use video in original web media, so they had to continue exclusive content creation for YouTube.&lt;/p&gt;
+&lt;p&gt;Naive have potential as solving several problems like this, and it will be a solid value.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Nativeを構想する上で、私が抱いてきた「違和感」は主に以下の３点で、これらを「正す」ために、Nativeは必要だと考えています。&lt;/p&gt;
+&lt;h2&gt;コンテンツがプラットフォームに管理される当たり前&lt;/h2&gt;
+&lt;p&gt;映像や音声を用いたコンテンツというのは、ほとんどの場合YouTubeやTikTok、もしくはInstagramなどに投稿される。しかし、これはWeb3.0の文脈から考えるとやはり疑問点で、本来コンテンツというのはそのクリエイター自身が管理するべきものであり、今のような、コンテンツがプラットフォームという棚に並ぶような構造には、キャッシュフローや権限の観点で問題がある。例えばプラットフォーム上でマネタイズシステムが組まれることによって、クリエイターはプラットフォームの規約に左右されることとなり、これでは面白くない。&lt;/p&gt;
+&lt;h2&gt;それが「動画」である必要性&lt;/h2&gt;
+&lt;p&gt;YouTubeのコンテンツを眺めていると、面白いコンテンツが多い。例えば以下のように、画像のスライドショーが動画としてアップロードされていたり、テキストを中心に構成されている動画コンテンツなどが多くある。これらがもちろん動画コンテンツとして成立しているため問題はないのだが、個人的に感じるのは「なぜわざわざ動画ファイルにしてYouTubeにアップロードして、といった面倒なことをしなければいけないのだろうか」という点である。
+例えばNativeを使えば、動画編集ソフトを開くことなくこれらのコンテンツをスムーズに、直感的に作ることができる上、動画ファイルという1920 * 1080 の四角の中にすべてを詰め込む必要がないので、スペースを広く使って、ある意味「マイペース」に、自分の思うようにコンテンツを構成することができる。&lt;/p&gt;
+&lt;h2&gt;メディア自身の分裂&lt;/h2&gt;
+&lt;p&gt;僕が「プラットフォームの内側と外側」を強く意識するようになったのは、以下のようなメディアの存在である。これらはYouTubeのコンテンツを制作・配信しつつ、自身のWebメディアでも別の記事のコンテンツを配信していたりする。一方では映像にしたものを、一方では文字起こしして記事にしているようなものなどもあり、これがオーディエンスの体験を考慮してなされたことであれば望ましいと思う。（映像よりもテキストで自分のペースで情報を得たい人もいる）
+しかし、このYouTubeで撮影した映像などが、メインのWebメディアでは驚くほど活用できていないように感じる。つまり、少なからず構造的にWebメディアでは映像や音声の活用がしづらい状況があり、それゆえにYouTubeチャンネルとWebメディアを両方並行で運営したり、それぞれに異なるコンテンツを制作・公開する必要があったりするのではないか、という仮説を持っている。
+Nativeには、こういった「デジタルコンテンツ産業の構造的な課題を解消していける」と考えており、これは揺るぎないコアな価値だと考えている。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Necessity of Native Part.2]]></title><description><![CDATA[In Necessity of Native Part.1, I described the necessity of Native from structual perspective. In a word. Native will be the first step in…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/necessity_of_native_2/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/necessity_of_native_2/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;In &lt;a href=&quot;/necessity_of_native_1&quot;&gt;Necessity of Native Part.1&lt;/a&gt;, I described the necessity of Native from structual perspective. In a word. Native will be the first step in progress of Web to become better place.&lt;/p&gt;
+&lt;p&gt;I guess recent Web looks a mess and complicated. I don’t know the other people’s thought, but I want to demand Web to be well-ordered and be a place people can tell their story their own way.&lt;/p&gt;
+&lt;p&gt;In addition, the advance of recent technologies are insane. But on the other hand, I guess we have lack of design of them for us. I want to design recent great technogogies put myself in audience’s shoe and creator’s shoe, and native will be the first work for me.&lt;/p&gt;
+&lt;p&gt;Deep dive into this topic, I guess the system that people re-use others content such as block-chain technology and creative-commons, but the number of opportunity people actually can re-use is still smaill. In terms of Naive, we can import every expression-media such as text, image, video, and audio. This is also an advantage at this point. I mean We can import other creator’s content regardless expression-media type in Native. There is a unique function called “Universal Markdown” in Native and we can search any photos and videos and audios in other platform such as YouTube and Unsplash by typing keyword and we can choose &amp;#x26; import them on the editor screen. I guess this function will be better if it become able to utilize block-chain technology in back-end .&lt;/p&gt;
+&lt;p&gt;As this idea, it’s very important to connect human’s experience and recent technology.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;/necessity_of_native_1&quot;&gt;Necessity of Native Part.1&lt;/a&gt;では、主観を抜いた、構造的な観点におけるNativeの必要性について記述してきたが、一言で言えば、Nativeはこのように「Webがより豊かな場所になるための第一歩になる」と考えています。&lt;/p&gt;
+&lt;p&gt;最近のWebは、どこか煩雑で、混沌としているような印象を受けます。私はもっとWebという場所に「上質さ」や「安定性」を求めたいと考えており、感覚的で申し訳ありませんが、私はもっとWebという場所がもっと、人々の伝えたいことを伝えたように伝える場所になっていいと考えています。もっとWebは自由で秩序のある場所にしていきたいと考えています。&lt;/p&gt;
+&lt;p&gt;現代のテクノロジーの進歩は凄まじく、目を見張るところがあります。しかし、私はそれらを私たち人間のためにデザインすることが追いついていないように感じます。私はもっと、人間の視点、作る人、見る人の視点に立ってWebを中心に技術をデザインしていきたいと考えており、Nativeをその船出の第一歩としたいと考えています。&lt;/p&gt;
+&lt;p&gt;もう少し掘り下げれば、ブロックチェーン技術やクリエイティブ・コモンズの浸透など、コンテンツを再利用する「仕組み」はかなり整ってきている一方で、具体的にコンテンツを再利用できるシーンは限定的だと考えています。Nativeによって、コンテンツを制作する上でエディター上でテキスト・画像・映像・音声のすべてを用いることができることは、換言すればコンテンツごとに取り込める外部のコンテンツがそれだけ豊かになるということです。Nativeには「ユニバーサル・マークダウン（記事の執筆中に画像や映像・音声を同時にキーワード検索して外部から即座にエディターへコンテンツを取り込める機能）」という機能を実験的に備え付けていますが、例えばこの機能にブロックチェーン技術を取り込むなど、人々の「体験」とテクノロジーを結びつけることが今後重要だと考えています。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Core target]]></title><description><![CDATA[The cases people use Native I suppose now is as follows, but we have to narrow down Native’s target like “who will use Native ? in which…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/target/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/target/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;The cases people use Native I suppose now is as follows, but we have to narrow down Native’s target like “who will use Native ? in which field?”. After this vertification, we will be able to identify the market size of Native.&lt;/p&gt;
+&lt;h2&gt;Used as text editor&lt;/h2&gt;
+&lt;p&gt;People who create blog content in note(major content platform in Japan), Medium will use Native. Video will not be main element in their content, but Native’s writing experience will be better than other text editor they use.&lt;/p&gt;
+&lt;p&gt;*of course we have to make these platform support linear-native format.&lt;/p&gt;
+&lt;h2&gt;Add-on &amp;#x26; Replace in video content creation&lt;/h2&gt;
+&lt;p&gt;People who create video content will use Native and there are two cases.  First one is add-on as “continue to use video editor when edit the detail, then import it to Native and create content”. Second one is replace like “All task in creation process can be done in Native”.&lt;/p&gt;
+&lt;p&gt;In addition, many web media especially about field the visual is important will use Native such as cosmetic and aparel and sports.&lt;/p&gt;
+&lt;h2&gt;Add-on as creative tool&lt;/h2&gt;
+&lt;p&gt;Creative agency andstudio in entertainment industry such as Manga and Anime will use Native to create rich-content based on linear-native.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;以下は、現時点で私が想定している「Nativeが使われるケース」だが、まだまだターゲットを絞り切れていないのが現状だ。具体的にどの分野のどの人にNativeのニーズがあるのか、といった具体的なターゲットを定めていくことがこれから必要で、市場規模についてもそこで初めて算出できるものだと考えている。&lt;/p&gt;
+&lt;h2&gt;執筆ツールとしての活躍&lt;/h2&gt;
+&lt;p&gt;ブログやマガジン、noteやMediumなどで記事を発信している⼈が執筆の際に使用する（*当然公開先のプラットフォームをリニアネイティブに対応させる必要がある）。&lt;/p&gt;
+&lt;h2&gt;動画を用いた発信におけるアドオンとリプレース&lt;/h2&gt;
+&lt;p&gt;動画コンテンツを発信している⼈が、「動画ごとの細かい編集はこれまで通り動画編集ソフトを使うが、コンテンツを構成する際はNativeを使う」というようにアドオンでNativeを使うようになったり、「動画編集ソフトを使わなくてもNativeだけで制作が完結する」ことで他製品を置き換えるケースも考えられる。&lt;/p&gt;
+&lt;p&gt;またコスメ・アパレル・スポーツなどの分野を先頭に、多くのWebメディアがテキストエディタや動画編集ソフトに代えてNativeを使用するようになる。&lt;/p&gt;
+&lt;h2&gt;クリエイティブ制作ツールとしてのアドオン&lt;/h2&gt;
+&lt;p&gt;LPなどのクリエイティブを制作するエージェンシーや、漫画・アニメといったエンターティメント業界において「リニアネイティブに基いた作品」を制作する際に活用される。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Career]]></title><description><![CDATA[Now, we’re trying to form a company named “Odds” with engineers. To investor Native is our first product, and the next step is to verify…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/career/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/career/</guid><pubDate>Mon, 06 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;Now, we’re trying to form a company named “Odds” with engineers.&lt;/p&gt;
+&lt;h2&gt;To investor&lt;/h2&gt;
+&lt;p&gt;Native is our first product, and the next step is to verify Native’s needs and identify the growth potential of this business. In order to this step, we need to develop Native for verification and update the interface design and function of Native trial and error with many creators and media companies, so we need fund to form company and start these tasks.&lt;/p&gt;
+&lt;p&gt;Based on Native itself and my career so far and documents on this site, if you feel the potential of Native and our future and sympathy for our mission “contribute to society though fantastic products”, please contact us.&lt;/p&gt;
+&lt;h2&gt;To engineer&lt;/h2&gt;
 &lt;p&gt;In terms of my skill-set, I can write HTML/CSS(Sass) and I’ve built site-theme for WordPress/Gatsby JS/Shopify. I use MacOS &amp;#x26; Visual Studio Code, and I spent 6 months on developing Native from scratch(actually my JavaScript skill was also scratch…).&lt;/p&gt;
-&lt;p&gt;I don’t have enough skill in tech and communication,  but I know that what I want to do in my life is creating product and contribute to people and this is unchangeable. As I research and design Native and develop it by myself, I will learn everything  to create fantastic product from now on, I promise.&lt;/p&gt;
+&lt;p&gt;I don’t have enough skill in tech and communication,  but I know that &lt;a href=&quot;/my_career&quot;&gt;what I want to do in my life is creating product and contribute to people&lt;/a&gt; and this is unchangeable. As I research and design Native and develop it by myself, I will learn everything  to create fantastic product from now on, I promise.&lt;/p&gt;
 &lt;p&gt;Whether it will be large or small, Native will change something and make it better and now I need a team member create many product now. In order to this purpose, I’m calling on you with unreliable english. Even if you can’t believe my words, this will be a good chance for you to meet people who has same values and same purpose from all over the world.&lt;/p&gt;
 &lt;p&gt;If you’re interested in, please contact us!&lt;/p&gt;
 &lt;h3&gt;Contact&lt;/h3&gt;
-&lt;p&gt;Twitter DM: @inc_odds&lt;br&gt;E-mail: &lt;a href=&quot;mailto:odds@shun-muraki.jp&quot;&gt;odds@shun-muraki.jp&lt;/a&gt;&lt;br&gt;I definitely reply all message in 24 hours.&lt;/p&gt;
+&lt;p&gt;Twitter DM: &lt;a href=&quot;https://twitter.com/inc_odds&quot;&gt;@inc_odds&lt;/a&gt;&lt;br&gt;E-mail: &lt;a href=&quot;mailto:odds@shun-muraki.jp&quot;&gt;odds@shun-muraki.jp&lt;/a&gt;&lt;br&gt;I definitely reply all message in 24 hours.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;投資家の方へ&lt;/h2&gt;
 &lt;p&gt;現在、僕はこれから集うエンジニアたちと「Odds」という会社を設立しようと考えています。&lt;/p&gt;
 &lt;p&gt;「Native」はOddsの最初のプロダクトで、このプロダクトのニーズを具体的に検証し、事業成長の可能性を明らかにすることが次のステップです。そのためには今の僕が開発したクオリティの低いNativeを作り込みながら、多くのクリエイターや企業に協力を得ながら検証をしていける状態に持っていく必要があります。&lt;/p&gt;
 &lt;p&gt;そのためには会社を組織するための資金が必要で、これを投資して下さるエンジェル投資家の方を必要としています。&lt;/p&gt;
-&lt;p&gt;Naive本体や僕のこれまでの経歴、本サイトの資料などを踏まえ、Nativeと僕の未来に可能性を感じ、、またOddsの「ファンタスティックなプロダクトで社会に貢献する」というプロダクト第一のバリューに共感して頂けたら、ぜひ一度ご連絡をいただきたいです。よろしくお願いします。&lt;/p&gt;
+&lt;p&gt;Naive本体や僕のこれまでの経歴、本サイトの資料などを踏まえ、Nativeと僕の未来に可能性を感じ、またOddsの「ファンタスティックなプロダクトで社会に貢献する」というプロダクト第一のバリューに共感して頂けたら、ぜひ一度ご連絡をいただきたいです。よろしくお願いします。&lt;/p&gt;
 &lt;h2&gt;エンジニアの方へ&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6e680821fca9ea51ad48b9a8f32d2bdf/29114/art_1.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVR42m1TRw6EQAzjB/QOoneB+P/nsnIko4jlYDIlzZ7gBEEgnueJ67qfwL3v+48Nw1DiOFZEUaTAmj4OFnVdyzzPMgyDjOMofd/rHpaOTFgUhWzbJvd9y3Vdiq7rtBDuNWGWZdK2rez7Lud5agD2CEb38KHN81yqqtImCOzZpWMp48AiSRIthiS0OPuSCGcPZauR3bNzUIJl11Y/agirCfHhxgKa0JmdMkFZlqrvsiwyTZMWRPeaME1TaZpGL9d1Vf0ABCCQHVNDrlmUj/FQRnUEUmAkp9AoRvpYowtYxBA8p2SOrQ5LvMcFVDlex3EoG0wFmEDXZw4ZAGdQBXVazCQS2YeCprZLUv5LyFeFM2H/ADsFbyZ2Sn6oMhaAZAFSoQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;&amp;quot;図&amp;quot;&quot;
-        title=&quot;&quot;
-        src=&quot;/static/6e680821fca9ea51ad48b9a8f32d2bdf/f058b/art_1.png&quot;
-        srcset=&quot;/static/6e680821fca9ea51ad48b9a8f32d2bdf/c26ae/art_1.png 158w,
-/static/6e680821fca9ea51ad48b9a8f32d2bdf/6bdcf/art_1.png 315w,
-/static/6e680821fca9ea51ad48b9a8f32d2bdf/f058b/art_1.png 630w,
-/static/6e680821fca9ea51ad48b9a8f32d2bdf/40601/art_1.png 945w,
-/static/6e680821fca9ea51ad48b9a8f32d2bdf/78612/art_1.png 1260w,
-/static/6e680821fca9ea51ad48b9a8f32d2bdf/29114/art_1.png 1920w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;私のスキルセットについてですが、HTML・CSS（Sass）が書けて、WordPressとGatsby JS、Shopify で独自テーマを開発した経験があります。MacOSでVSCodeメインの開発をしており、Neovimを最近使い始めました。今公開しているNativeは自分で半年間かけて開発しました。ライブラリはほとんど使っておらず、開発当初はほとんどJavaScriptが書けませんでした。&lt;/p&gt;
-&lt;p&gt;僕には技術的な側面でも語学の面でも、足りないことが多く目立ちます。しかし「僕自身のキャリアプラン」にも記述しているように、僕にとって最も情熱を感じることは「ものづくり」で、これはブレません。プロダクトを通じて世界中の人に貢献するためにNativeを構想し、Nativeを本格的に開発するために現在のロークオリティなNativeを自身で開発したように、僕はこれからも、プロダクトで人に貢献するために必要なすべてのことを躊躇せずに学び、経験から吸収していくことを約束します。&lt;/p&gt;
+&lt;p&gt;僕には技術的な側面でも語学の面でも、足りないことが多く目立ちます。しかし&lt;a href=&quot;/my_career&quot;&gt;「僕自身のキャリアプラン」&lt;/a&gt;にも記述しているように、僕にとって最も情熱を感じることは「ものづくり」で、これはブレません。プロダクトを通じて世界中の人に貢献するためにNativeを構想し、Nativeを本格的に開発するために現在のロークオリティなNativeを自身で開発したように、僕はこれからも、プロダクトで人に貢献するために必要なすべてのことを躊躇せずに学び、経験から吸収していくことを約束します。&lt;/p&gt;
 &lt;p&gt;Nativeはその大小によらず、世界のどこかを良くできると信じていますが、僕はこのNativeにとどまらず、ともに優れたプロダクトを作っていけるようなチームを求めています。そのために、頼り甲斐のない僕が旗を振って、辿々しい英語で世界に対してこのような呼びかけをしています。今、僕の言葉が信じられなくても、これはきっとプロダクトづくりに情熱を感じる世界各地の人々とタッグを組めるチャンスになるはずです。&lt;/p&gt;
 &lt;p&gt;NativeやOddsのこれからに興味を持っていただけましたら、ぜひ気軽にご連絡をください！よろしくお願いします。&lt;/p&gt;
 &lt;h3&gt;連絡先&lt;/h3&gt;
-&lt;p&gt;Twitter DM: @inc_odds&lt;br&gt;E-Mail: &lt;a href=&quot;mailto:odds@shun-muraki.jp&quot;&gt;odds@shun-muraki.jp&lt;/a&gt;&lt;br&gt;必ず24時間以内に返信をします。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
-&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This however showed weasel&lt;/li&gt;
-&lt;li&gt;Well uncritical so misled
-&lt;ul&gt;
-&lt;li&gt;this is very interesting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
-view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
-&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.&lt;/p&gt;
-&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
-&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;So baboon this&lt;/li&gt;
-&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
-&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
-&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
-impassive fruitlessly shut&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word &quot;and&quot; and the Little Blind Text should turn around and
-return to its own, safe country.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.&lt;/p&gt;
-&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
-&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.&lt;/p&gt;
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
-&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.&lt;/p&gt;
-&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word &quot;and&quot; and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-second-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.&quot;?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I&apos;m sure I&apos;ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here&apos;s a great quote from this Wikipedia on&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/dd3cc96218ab559862e1cf11d2f71d51/29114/ugly.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABnElEQVR42l2TS2vcMBSF5/9vQ/fdhBYCnSxaaB5QEmj6mjZMHp0mgVmE4nQmY1sPW7JleU44aq5xu7j46ujq6NOVPFFlibLI0ccO2G6htUZZllBKoSgKhBDgvU+5zFVVhRjjUCdfahNta5TaQluH0EWE0KJpGE0KFnVdN4zbtk2b9H0/aKJTm5wsNI6vFKazHDeZQ/A1tDaw1iYiLmYxCagZY1DXddqIuWiMRLj35RGvztZ483WDX5lD3zWonYN7DhbR1I00oRlrbEsiPLos8e48x+tPj/j5u0YMHsZWiYK787g0ZE6N/aMBFzNniJ4ID+YF9mcbvDjM8H1p0QcPa6uhmEUkoqFo7NnYUEwT4YdrhZOFwh/VwvqIpvFpkhT8CqGQUZPjSd24PamHux/XeHm6wsV9ha51MMYmIoYQygUwxFDGQp8M388LvP2Rg0dfrjzi86Vw0ZhQyEgiR5bLEH0wnH7bYOcgw2xpEdsaSpt/ngIN+IREk0uRMWMg/HxncLpQ6WJuHxy2kX/G38fKnUnIYP7/Ix4/bM7T8AlffUjkNHJpOgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;&quot;
-        src=&quot;/static/dd3cc96218ab559862e1cf11d2f71d51/f058b/ugly.png&quot;
-        srcset=&quot;/static/dd3cc96218ab559862e1cf11d2f71d51/c26ae/ugly.png 158w,
-/static/dd3cc96218ab559862e1cf11d2f71d51/6bdcf/ugly.png 315w,
-/static/dd3cc96218ab559862e1cf11d2f71d51/f058b/ugly.png 630w,
-/static/dd3cc96218ab559862e1cf11d2f71d51/40601/ugly.png 945w,
-/static/dd3cc96218ab559862e1cf11d2f71d51/78612/ugly.png 1260w,
-/static/dd3cc96218ab559862e1cf11d2f71d51/29114/ugly.png 1920w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;You can also write code blocks here!&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; saltyDuckEgg &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;chinese preserved food product&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;left&quot;&gt;Number&lt;/th&gt;
-&lt;th align=&quot;left&quot;&gt;Title&lt;/th&gt;
-&lt;th align=&quot;right&quot;&gt;Year&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;1&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Harry Potter and the Philosopher’s Stone&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;2001&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;2&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Harry Potter and the Chamber of Secrets&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;2002&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;3&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Harry Potter and the Prisoner of Azkaban&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;2004&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This is a paragraph.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1&gt;Header 1&lt;/h1&gt;
-&lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Header 1
-========
-
-Header 2
---------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1&gt;Header 1&lt;/h1&gt;
-&lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;h3&gt;Header 3&lt;/h3&gt;
-&lt;h4&gt;Header 4&lt;/h4&gt;
-&lt;h5&gt;Header 5&lt;/h5&gt;
-&lt;h6&gt;Header 6&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1&gt;Header 1&lt;/h1&gt;
-&lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;h3&gt;Header 3&lt;/h3&gt;
-&lt;h4&gt;Header 4&lt;/h4&gt;
-&lt;h5&gt;Header 5&lt;/h5&gt;
-&lt;h6&gt;Header 6&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1 #
-## Header 2 ##
-### Header 3 ###
-#### Header 4 ####
-##### Header 5 #####
-###### Header 6 ######&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;This is a header.&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;This is the first list item.&lt;/li&gt;
-&lt;li&gt;This is the second list item.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Here&apos;s some example code:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; ## This is a header.
-&gt; 1. This is the first list item.
-&gt; 2. This is the second list item.
-&gt;
-&gt; Here&apos;s some example code:
-&gt;
-&gt;     Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue
-
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Blue
-
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ol&gt;
-&lt;li&gt;Buy flour and salt&lt;/li&gt;
-&lt;li&gt;Mix together with water&lt;/li&gt;
-&lt;li&gt;Bake&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Buy flour and salt
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Mix together with water
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Bake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Paragraph:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;!-- --&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Paragraph:
-
-    Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;* * *
-
-***
-
-*****
-
-- - -
-
----------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is [an example](http://example.com &quot;Example&quot;) link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example] [id] reference-style link.
-
-[id]: http://example.com &quot;Optional Title&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;double underscores&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*single asterisks*
-
-_single underscores_
-
-**double asterisks**
-
-__double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This paragraph has some &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; in it.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;https://via.placeholder.com/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://via.placeholder.com/200x50 &quot;Image Title&quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Twitter DM: &lt;a href=&quot;https://twitter.com/inc_odds&quot;&gt;@inc_odds&lt;/a&gt;&lt;br&gt;E-Mail: &lt;a href=&quot;mailto:odds@shun-muraki.jp&quot;&gt;odds@shun-muraki.jp&lt;/a&gt;&lt;br&gt;必ず24時間以内に返信をします。&lt;/p&gt;</content:encoded></item></channel></rss>
