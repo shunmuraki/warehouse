@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwarehouse=self.webpackChunkwarehouse||[]).push([[682],{5465:function(e,u,a){a.r(u);var s=a(7294);u.default=()=>s.createElement("h1",null,"Gatsby Blog Site")}}]);
+//# sourceMappingURL=component---src-pages-about-js-e3a4c3f268b636302918.js.map

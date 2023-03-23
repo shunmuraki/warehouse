@@ -1,5 +1,5 @@
 ---
-title: Make Web better though Native.
+title: "Make Web better though Native."
 date: "2023-03-12T23:37:03.284Z"
 description: "Our original perspective on Web and its future. 私たちの「Web」という場所の捉え方と考える未来について書きます。"
 tags: ["engineer", "investor", "creator", "everyone"]

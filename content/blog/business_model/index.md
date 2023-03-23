@@ -1,5 +1,5 @@
 ---
-title: Business model
+title: "Business model"
 date: "2023-03-12T23:37:03.284Z"
 description: "My plan of Native's monetize system. Nativeのビジネスモデルについて現在の考えを述べます。"
 tags: ["investor", "business-plan"]

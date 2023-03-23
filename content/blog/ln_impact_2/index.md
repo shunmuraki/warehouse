@@ -1,5 +1,5 @@
 ---
-title: Impact of ln(Linear Native) Part.2
+title: "Impact of ln(Linear Native) Part.2"
 date: "2023-03-12T23:37:03.284Z"
 description: "Think how ln change current digital-content. リニアネイティブがコンテンツ単位でどのような変化を生み出すかを考えます。"
 tags: ["creator", "investor", "ln-impact"]

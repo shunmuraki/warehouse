@@ -1,5 +1,5 @@
 ---
-title: About anything.tokyo
+title: "About anything.tokyo"
 date: "2023-03-12T23:37:03.284Z"
 description: "What is anything.tokyo and what it's for? 「anything.tokyo」が何で、どんなことを実現したいか説明します。"
 tags: ["engineer", "investor", "creator", "everyone"]

@@ -1,5 +1,5 @@
 ---
-title: Business Idea
+title: "Business Idea"
 date: "2023-03-12T23:37:03.284Z"
 description: "About Odds' current core business. オッヅ社の現在の事業を記述します。"
 tags: ["engineer", "investor", "creator", "everyone", "business-plan"]

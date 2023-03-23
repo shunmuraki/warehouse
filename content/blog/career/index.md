@@ -1,5 +1,5 @@
 ---
-title: Career
+title: "Career"
 date: "2023-03-06T23:37:03.284Z"
 description: "Job offer information of Odds Inc. オッヅ社の求人情報を掲載します。"
 tags: ["engineer", "investor"]

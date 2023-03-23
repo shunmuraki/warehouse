@@ -1,5 +1,5 @@
 ---
-title: Necessity of Native Part.1
+title: "Necessity of Native Part.1"
 date: "2023-03-12T23:37:03.284Z"
 description: "Describe the necessity of Native from structural perspective. Nativeの必要性について、ここでは構造的な視点で考察します。"
 tags: ["investor", "native-necessity", "business-plan"]

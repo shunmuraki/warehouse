@@ -1,5 +1,5 @@
 ---
-title: Impact of ln(Linear Native) Part.1
+title: "Impact of ln(Linear Native) Part.1"
 date: "2023-03-12T23:37:03.284Z"
 description: "Describe ln's social impact from macro perspective. リニアネイティブが具体的に社会に与える変化について、マクロな視点で考察しています。"
 tags: ["creator", "investor", "ln-impact"]

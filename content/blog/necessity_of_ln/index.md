@@ -1,5 +1,5 @@
 ---
-title: Necessity of ln(Linear Native)
+title: "Necessity of ln(Linear Native)"
 date: "2023-03-12T23:37:03.284Z"
 description: "Thought about ln's necessity from structual point of view. リニアネイティブの必要性について、主観ではなく構造的な視点から考えます。"
 tags: ["investor", "business-plan"]

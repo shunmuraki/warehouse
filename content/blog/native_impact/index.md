@@ -1,9 +1,10 @@
 ---
-title: Native's impact
+title: "Native's Impact"
 date: "2023-03-12T23:37:03.284Z"
-description: "Describe Native's impact and importance of "design". Nativeの社会的なインパクトについて述べています。"
+description: "Describe Native impact and importance of "design". Nativeの社会的なインパクトについて述べています。"
 tags: ["engineer", "investor"]
 ---
+
 
 ### Design advanced technologies for human
 
@@ -30,3 +31,5 @@ Nativeはもともと「リニアネイティブを誰でも使えるように�
 具体的には、外部とAPI連携をすることでコンテンツをスムーズに取り込めるような機能を備え付けたり、あらゆる処理・設定がNativeの裏で自動化されるようにすることで、Nativeは独自の存在意義を確立していけると考えています。
 
 また、NativeはジェネラティブAI活用の絶好の場です。Nativeは「執筆体験」を提供するインターフェースですが、キーワードをタイプし、それが画像になったり映像になったり、生成された音声をそのまま取り込んで記事のBGMにしたり、といった、非常に人間に寄り添った「テクノロジーのインターフェース」になれるでしょう。
+
+"Describe Native impact and importance of "design". Nativeの社会的なインパクトについて述べていま

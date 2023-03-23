@@ -1,5 +1,5 @@
 ---
-title: Odds' outline
+title: "Odds' outline"
 date: "2023-03-12T23:37:03.284Z"
 description: "Information about our company. Mission, vision and so on. オッヅ社のミッションや会社の未来について展望を書きます。"
 tags: ["engineer", "investor", "creator", "everyone"]

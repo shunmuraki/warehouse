@@ -1,5 +1,5 @@
 ---
-title: Necessity of Native Part.2
+title: "Necessity of Native Part.2"
 date: "2023-03-12T23:37:03.284Z"
 description: "Talked about relation between Web & Native. Nativeを通じて、これからのWebをどう作っていくかを書いています。"
 tags: ["investor", "creator", "native-necessity", "business-plan"]

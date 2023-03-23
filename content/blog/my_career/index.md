@@ -1,5 +1,5 @@
 ---
-title: "My" career plan
+title: "My career plan"
 date: "2023-03-12T23:37:03.284Z"
 description: "Let me explain my own caeer plan. 僕村木瞬自身のこれからの人生を本人がどう考えているか書かせてください。"
 tags: ["engineer", "investor"]

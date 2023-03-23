@@ -1,5 +1,5 @@
 ---
-title: Core target
+title: "Core target"
 date: "2023-03-12T23:37:03.284Z"
 description: "Describe my assumption about the core-target of Native. Nativeのコアなターゲットについて現時点での考えをまとめます。"
 tags: ["investor", "creator", "business-plan"]

@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-ddaba165586261dd6205.js","mappings":"+HAMA,UAJiB,IACT,yBAAG,oB","sources":["webpack://warehouse/./src/pages/404.js"],"sourcesContent":["import * as React from \"react\"\n\nconst NotFound = () => {\n\treturn <p>アクセスしたページは存在しません。</p>;\n};\n\nexport default NotFound;\n"],"names":[],"sourceRoot":""}

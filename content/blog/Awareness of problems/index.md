@@ -1,5 +1,5 @@
 ---
-title: Awareness of problem
+title: "Awareness of problem"
 date: "2023-03-12T23:37:03.284Z"
 description: "About problem we see on contents-industry. 現在のコンテンツ産業における課題意識について説明します。"
 tags: ["engineer", "investor", "creator", "business-plan"]

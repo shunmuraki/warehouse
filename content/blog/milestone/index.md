@@ -1,5 +1,5 @@
 ---
-title: Milestone
+title: "Milestone"
 date: "2023-03-12T23:37:03.284Z"
 description: "Odds'roadmap including Native. オッヅ社がNativeから始まり、どのように事業を展開していくかを述べます。"
 tags: ["engineer", "investor", "business-plan"]

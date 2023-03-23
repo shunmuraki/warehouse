@@ -1,5 +1,5 @@
 ---
-title: Market size
+title: "Market size"
 date: "2023-03-12T23:37:03.284Z"
 description: "My perspective on Native's market-size. Nativeが対象とする市場規模についての考えを述べます。"
 tags: ["investor", "business-plan"]

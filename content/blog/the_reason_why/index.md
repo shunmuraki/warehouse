@@ -1,5 +1,5 @@
 ---
-title: Several reason why there had never been content similer to ln(linaer-native) so far.
+title: "Several reason why there had never been content similer to ln(linaer-native) so far."
 date: "2023-03-12T23:37:03.284Z"
 description: "Exlain about the reason why it's hard to find web-content like linear-native and why I could build Native for the first time. なぜ今までリニアネイティブやNativeに似たものがなかったのか、いくつかの理由を考察しています。"
 tags: ["engineer", "investor", "creator", "everyone"]
