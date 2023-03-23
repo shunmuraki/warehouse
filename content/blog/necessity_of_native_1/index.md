@@ -15,6 +15,8 @@ In the most case, content const of video and audio tend to be managed on platfor
 
 In YouTube, there are many interesting contents. For example, as below, a video capture a slide show consist of images, and a video consist of only text. I don’t have any opinion about those, but I felt that “People import these elements into video editor and create video, then finally upload it to YouTube…. does this long process takes time and effort?”.
 
+https://www.youtube.com/watch?v=HO8rPiBi-64
+
 I mean if you use Native, you can express your idea as these video smoothly and fast without video editor. Also you don’t need to cram evey information and all elements into A 1920 * 1080 square. You can create content with not space ristriction.
 
 ## A split in one media
@@ -36,6 +38,9 @@ Nativeを構想する上で、私が抱いてきた「違和感」は主に以�
 ## それが「動画」である必要性
 
 YouTubeのコンテンツを眺めていると、面白いコンテンツが多い。例えば以下のように、画像のスライドショーが動画としてアップロードされていたり、テキストを中心に構成されている動画コンテンツなどが多くある。これらがもちろん動画コンテンツとして成立しているため問題はないのだが、個人的に感じるのは「なぜわざわざ動画ファイルにしてYouTubeにアップロードして、といった面倒なことをしなければいけないのだろうか」という点である。
+
+https://www.youtube.com/watch?v=HO8rPiBi-64
+
 例えばNativeを使えば、動画編集ソフトを開くことなくこれらのコンテンツをスムーズに、直感的に作ることができる上、動画ファイルという1920 * 1080 の四角の中にすべてを詰め込む必要がないので、スペースを広く使って、ある意味「マイペース」に、自分の思うようにコンテンツを構成することができる。
 
 ## メディア自身の分裂
