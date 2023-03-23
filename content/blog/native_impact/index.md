@@ -5,7 +5,6 @@ description: "Describe Native impact and importance of "design". Nativeの社会
 tags: ["engineer", "investor"]
 ---
 
-
 ### Design advanced technologies for human
 
 Actually Native’s first concept was “enable everyone to create rich-content”, but I realized that this product will be something change human’s writing experience in the process of designing Native’s interface.
