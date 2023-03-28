@@ -5,6 +5,17 @@ description: "Describe Native impact and importance of design. Nativeの社会�
 tags: ["engineer", "investor"]
 ---
 
+### !! Now you can't watch our YouTube videos !!
+
+I'm sorry. You can watch them in Vimeo instead.
+2023.3/28
+
+[Why I built Native](https://vimeo.com/812302343)
+[Future of Native](https://vimeo.com/812303080)
+[About my Career](https://vimeo.com/812303233)
+
+---
+
 ### Design advanced technologies for human
 
 Actually Native’s first concept was “enable everyone to create rich-content”, but I realized that this product will be something change human’s writing experience in the process of designing Native’s interface.

@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://odds-wh.tokyo</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 23 Mar 2023 22:36:31 GMT</lastBuildDate><item><title><![CDATA[Native's Impact]]></title><description><![CDATA[Design advanced technologies for human Actually Native’s first concept was “enable everyone to create rich-content”, but I realized that…]]></description><link>https://odds-wh.tokyo/native_impact/</link><guid isPermaLink="false">https://odds-wh.tokyo/native_impact/</guid><pubDate>Mon, 13 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;Design advanced technologies for human&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://odds-wh.tokyo</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Mar 2023 06:09:02 GMT</lastBuildDate><item><title><![CDATA[Native's Impact]]></title><description><![CDATA[!! Now you can't watch our YouTube videos !! I'm sorry. You can watch them in Vimeo instead.
+2023.3/28 Why I built Native
+Future of Native…]]></description><link>https://odds-wh.tokyo/native_impact/</link><guid isPermaLink="false">https://odds-wh.tokyo/native_impact/</guid><pubDate>Mon, 13 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;!! Now you can&apos;t watch our YouTube videos !!&lt;/h3&gt;
+&lt;p&gt;I&apos;m sorry. You can watch them in Vimeo instead.
+2023.3/28&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812302343&quot;&gt;Why I built Native&lt;/a&gt;
+&lt;a href=&quot;https://vimeo.com/812303080&quot;&gt;Future of Native&lt;/a&gt;
+&lt;a href=&quot;https://vimeo.com/812303233&quot;&gt;About my Career&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Design advanced technologies for human&lt;/h3&gt;
 &lt;p&gt;Actually Native’s first concept was “enable everyone to create rich-content”, but I realized that this product will be something change human’s writing experience in the process of designing Native’s interface.&lt;/p&gt;
 &lt;p&gt;There are a lot of advantage thanks to Native’s characteristic that we can use text, image, video and audio in the same editor screen.&lt;/p&gt;
 &lt;p&gt;The first impact I guess, is that the democratization of contents re-use. I described this topic in “Necessity of Native”, but the outline is like this. By using block-chain technology, we will be able to use any other’s content and create own rich content, and the cash-flow including royality system will be prepared, then Native will be the place people use these systems.&lt;/p&gt;
@@ -367,7 +376,16 @@
 &lt;h2&gt;コストがかさむ&lt;/h2&gt;
 &lt;p&gt;「動画の時代」と言われる今、現在のWebメディアは自身のYouTubeチャンネルやTikTokチャンネルを設け、ここへ「そのチャンネル用のコンテンツ」をWebメディアとは別に企画・制作している。
 これは当然の流れとも言えるが、あえて指摘するなら「本当にすべてのWebメディアが、各プラットフォームのチャンネルを律儀に運営していく必要があるのか」という疑義が浮かぶ。&lt;/p&gt;
-&lt;p&gt;例えば、Nativeを用いてWebメディアの記事において動画や音声を扱えるようになったら、YouTubeチャンネルやTikTokのアカウントを持つ必要がなくなるケースも多くありそうだ。少なくとも、各プラットフォームからWebメディアへの流入を促すために、広告的にコンテンツの一部をチャンネルに公開していくことは今後も続くだろうが、わざわざWebメディアとは別にコンテンツを企画・撮影・編集するのはなかなかのコストで、ここは改善できそうだ。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Necessity of Native Part.1]]></title><description><![CDATA[When I planed Native, I had felt something wrong about current writing mainly at three points and Native will solve thesse inconvenience…]]></description><link>https://odds-wh.tokyo/necessity_of_native_1/</link><guid isPermaLink="false">https://odds-wh.tokyo/necessity_of_native_1/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;When I planed Native, I had felt something wrong about current writing mainly at three points and Native will solve thesse inconvenience.&lt;/p&gt;
+&lt;p&gt;例えば、Nativeを用いてWebメディアの記事において動画や音声を扱えるようになったら、YouTubeチャンネルやTikTokのアカウントを持つ必要がなくなるケースも多くありそうだ。少なくとも、各プラットフォームからWebメディアへの流入を促すために、広告的にコンテンツの一部をチャンネルに公開していくことは今後も続くだろうが、わざわざWebメディアとは別にコンテンツを企画・撮影・編集するのはなかなかのコストで、ここは改善できそうだ。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Necessity of Native Part.1]]></title><description><![CDATA[!! Now you can't watch our YouTube videos !! I'm sorry. You can watch them in Vimeo instead.
+2023.3/28 Why I built Native
+Future of Native…]]></description><link>https://odds-wh.tokyo/necessity_of_native_1/</link><guid isPermaLink="false">https://odds-wh.tokyo/necessity_of_native_1/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;!! Now you can&apos;t watch our YouTube videos !!&lt;/h3&gt;
+&lt;p&gt;I&apos;m sorry. You can watch them in Vimeo instead.
+2023.3/28&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812302343&quot;&gt;Why I built Native&lt;/a&gt;
+&lt;a href=&quot;https://vimeo.com/812303080&quot;&gt;Future of Native&lt;/a&gt;
+&lt;a href=&quot;https://vimeo.com/812303233&quot;&gt;About my Career&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;When I planed Native, I had felt something wrong about current writing mainly at three points and Native will solve thesse inconvenience.&lt;/p&gt;
 &lt;h2&gt;Creator’s content have to be managed on platforms&lt;/h2&gt;
 &lt;p&gt;In the most case, content const of video and audio tend to be managed on platforms such as YouTube and TikTok and Instagram and so on.  However, I guess this structure looks weird from Web3.0 point of view I guess. Originally, creator’s content should be managed by creator and this is not smart from cash flow perspective and privileges perspective. For example, creator have to follow the policy each platforms have. This is not fair.&lt;/p&gt;
 &lt;h2&gt;About the necessity for creating video content&lt;/h2&gt;

@@ -5,6 +5,17 @@ description: "Describe the necessity of Native from structural perspective. Nati
 tags: ["investor", "native-necessity", "business-plan"]
 ---
 
+### !! Now you can't watch our YouTube videos !!
+
+I'm sorry. You can watch them in Vimeo instead.
+2023.3/28
+
+[Why I built Native](https://vimeo.com/812302343)
+[Future of Native](https://vimeo.com/812303080)
+[About my Career](https://vimeo.com/812303233)
+
+---
+
 When I planed Native, I had felt something wrong about current writing mainly at three points and Native will solve thesse inconvenience.
 
 ## Creator’s content have to be managed on platforms
