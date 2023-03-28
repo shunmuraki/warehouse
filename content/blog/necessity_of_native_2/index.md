@@ -5,6 +5,19 @@ description: "Talked about relation between Web & Native. Nativeを通じて、�
 tags: ["investor", "creator", "native-necessity", "business-plan"]
 ---
 
+### !! Now you can't watch our YouTube videos !!
+
+I'm sorry. You can watch them in Vimeo instead and Dropbox.
+Now we're trying to restore our YouTube Channel.
+2023.3/28
+
+[Why I built Native](https://vimeo.com/812302343)
+[Future of Native](https://vimeo.com/812303080)
+[About my Career](https://vimeo.com/812303233)
+[Native Tutorial](https://www.dropbox.com/sh/2vlvn757hpylw85/AAAT07Y57xJ-Gpjz_QDGWhQsa?dl=0)
+
+---
+
 In [Necessity of Native Part.1](/necessity_of_native_1), I described the necessity of Native from structual perspective. In a word. Native will be the first step in progress of Web to become better place.
 
 I guess recent Web looks a mess and complicated. I don’t know the other people’s thought, but I want to demand Web to be well-ordered and be a place people can tell their story their own way. 

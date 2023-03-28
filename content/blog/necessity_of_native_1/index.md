@@ -7,12 +7,14 @@ tags: ["investor", "native-necessity", "business-plan"]
 
 ### !! Now you can't watch our YouTube videos !!
 
-I'm sorry. You can watch them in Vimeo instead.
+I'm sorry. You can watch them in Vimeo instead and Dropbox.
+Now we're trying to restore our YouTube Channel.
 2023.3/28
 
 [Why I built Native](https://vimeo.com/812302343)
 [Future of Native](https://vimeo.com/812303080)
 [About my Career](https://vimeo.com/812303233)
+[Native Tutorial](https://www.dropbox.com/sh/2vlvn757hpylw85/AAAT07Y57xJ-Gpjz_QDGWhQsa?dl=0)
 
 ---
 
