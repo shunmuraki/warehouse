@@ -1,12 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://odds-wh.tokyo</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Mar 2023 06:15:13 GMT</lastBuildDate><item><title><![CDATA[Native's Impact]]></title><description><![CDATA[!! Now you can't watch our YouTube videos !! I'm sorry. You can watch them in Vimeo instead and Dropbox.
-Now we're trying to restore our…]]></description><link>https://odds-wh.tokyo/native_impact/</link><guid isPermaLink="false">https://odds-wh.tokyo/native_impact/</guid><pubDate>Mon, 13 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;!! Now you can&apos;t watch our YouTube videos !!&lt;/h3&gt;
-&lt;p&gt;I&apos;m sorry. You can watch them in Vimeo instead and Dropbox.
-Now we&apos;re trying to restore our YouTube Channel.
-2023.3/28&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812302343&quot;&gt;Why I built Native&lt;/a&gt;
-&lt;a href=&quot;https://vimeo.com/812303080&quot;&gt;Future of Native&lt;/a&gt;
-&lt;a href=&quot;https://vimeo.com/812303233&quot;&gt;About my Career&lt;/a&gt;
-&lt;a href=&quot;https://www.dropbox.com/sh/2vlvn757hpylw85/AAAT07Y57xJ-Gpjz_QDGWhQsa?dl=0&quot;&gt;Native Tutorial&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://odds-wh.tokyo</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Mar 2023 06:40:56 GMT</lastBuildDate><item><title><![CDATA[Native Tutorial]]></title><description><![CDATA[Basic Functions Edit Content Styling & Animation Unique Functions The Great=Writing-Flow Publish Content]]></description><link>https://odds-wh.tokyo/native_tutorial/</link><guid isPermaLink="false">https://odds-wh.tokyo/native_tutorial/</guid><pubDate>Tue, 28 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812307052&quot;&gt;Basic Functions&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812307067&quot;&gt;Edit Content&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812307082&quot;&gt;Styling &amp;#x26; Animation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812307097&quot;&gt;Unique Functions&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812307120&quot;&gt;The Great=Writing-Flow&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812307136&quot;&gt;Publish Content&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Native's Impact]]></title><description><![CDATA[!! Now you can't watch our YouTube videos !! I'm sorry. You can watch them in Vimeo instead. Now we're trying to restore our YouTube Channel…]]></description><link>https://odds-wh.tokyo/native_impact/</link><guid isPermaLink="false">https://odds-wh.tokyo/native_impact/</guid><pubDate>Mon, 13 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;!! Now you can&apos;t watch our YouTube videos !!&lt;/h3&gt;
+&lt;p&gt;I&apos;m sorry. You can watch them in Vimeo instead.&lt;/p&gt;
+&lt;p&gt;Now we&apos;re trying to restore our YouTube Channel.&lt;/p&gt;
+&lt;p&gt;2023.3/28&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812302343&quot;&gt;Why I built Native&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812303080&quot;&gt;Future of Native&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812303233&quot;&gt;About my Career&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/native_tutorial&quot;&gt;Native Tutorial&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3&gt;Design advanced technologies for human&lt;/h3&gt;
 &lt;p&gt;Actually Native’s first concept was “enable everyone to create rich-content”, but I realized that this product will be something change human’s writing experience in the process of designing Native’s interface.&lt;/p&gt;
@@ -368,15 +377,32 @@ Now we&apos;re trying to restore our YouTube Channel.
 &lt;h2&gt;コストがかさむ&lt;/h2&gt;
 &lt;p&gt;「動画の時代」と言われる今、現在のWebメディアは自身のYouTubeチャンネルやTikTokチャンネルを設け、ここへ「そのチャンネル用のコンテンツ」をWebメディアとは別に企画・制作している。
 これは当然の流れとも言えるが、あえて指摘するなら「本当にすべてのWebメディアが、各プラットフォームのチャンネルを律儀に運営していく必要があるのか」という疑義が浮かぶ。&lt;/p&gt;
-&lt;p&gt;例えば、Nativeを用いてWebメディアの記事において動画や音声を扱えるようになったら、YouTubeチャンネルやTikTokのアカウントを持つ必要がなくなるケースも多くありそうだ。少なくとも、各プラットフォームからWebメディアへの流入を促すために、広告的にコンテンツの一部をチャンネルに公開していくことは今後も続くだろうが、わざわざWebメディアとは別にコンテンツを企画・撮影・編集するのはなかなかのコストで、ここは改善できそうだ。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Necessity of Native Part.1]]></title><description><![CDATA[!! Now you can't watch our YouTube videos !! I'm sorry. You can watch them in Vimeo instead and Dropbox.
-Now we're trying to restore our…]]></description><link>https://odds-wh.tokyo/necessity_of_native_1/</link><guid isPermaLink="false">https://odds-wh.tokyo/necessity_of_native_1/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;!! Now you can&apos;t watch our YouTube videos !!&lt;/h3&gt;
-&lt;p&gt;I&apos;m sorry. You can watch them in Vimeo instead and Dropbox.
-Now we&apos;re trying to restore our YouTube Channel.
-2023.3/28&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812302343&quot;&gt;Why I built Native&lt;/a&gt;
-&lt;a href=&quot;https://vimeo.com/812303080&quot;&gt;Future of Native&lt;/a&gt;
-&lt;a href=&quot;https://vimeo.com/812303233&quot;&gt;About my Career&lt;/a&gt;
-&lt;a href=&quot;https://www.dropbox.com/sh/2vlvn757hpylw85/AAAT07Y57xJ-Gpjz_QDGWhQsa?dl=0&quot;&gt;Native Tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;例えば、Nativeを用いてWebメディアの記事において動画や音声を扱えるようになったら、YouTubeチャンネルやTikTokのアカウントを持つ必要がなくなるケースも多くありそうだ。少なくとも、各プラットフォームからWebメディアへの流入を促すために、広告的にコンテンツの一部をチャンネルに公開していくことは今後も続くだろうが、わざわざWebメディアとは別にコンテンツを企画・撮影・編集するのはなかなかのコストで、ここは改善できそうだ。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Necessity of Native Part.2]]></title><description><![CDATA[!! Now you can't watch our YouTube videos !! I'm sorry. You can watch them in Vimeo instead. Now we're trying to restore our YouTube Channel…]]></description><link>https://odds-wh.tokyo/necessity_of_native_2/</link><guid isPermaLink="false">https://odds-wh.tokyo/necessity_of_native_2/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;!! Now you can&apos;t watch our YouTube videos !!&lt;/h3&gt;
+&lt;p&gt;I&apos;m sorry. You can watch them in Vimeo instead.&lt;/p&gt;
+&lt;p&gt;Now we&apos;re trying to restore our YouTube Channel.&lt;/p&gt;
+&lt;p&gt;2023.3/28&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812302343&quot;&gt;Why I built Native&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812303080&quot;&gt;Future of Native&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812303233&quot;&gt;About my Career&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/native_tutorial&quot;&gt;Native Tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;In &lt;a href=&quot;/necessity_of_native_1&quot;&gt;Necessity of Native Part.1&lt;/a&gt;, I described the necessity of Native from structual perspective. In a word. Native will be the first step in progress of Web to become better place.&lt;/p&gt;
+&lt;p&gt;I guess recent Web looks a mess and complicated. I don’t know the other people’s thought, but I want to demand Web to be well-ordered and be a place people can tell their story their own way.&lt;/p&gt;
+&lt;p&gt;In addition, the advance of recent technologies are insane. But on the other hand, I guess we have lack of design of them for us. I want to design recent great technogogies put myself in audience’s shoe and creator’s shoe, and native will be the first work for me.&lt;/p&gt;
+&lt;p&gt;Deep dive into this topic, I guess the system that people re-use others content such as block-chain technology and creative-commons, but the number of opportunity people actually can re-use is still smaill. In terms of Naive, we can import every expression-media such as text, image, video, and audio. This is also an advantage at this point. I mean We can import other creator’s content regardless expression-media type in Native. There is a unique function called “Universal Markdown” in Native and we can search any photos and videos and audios in other platform such as YouTube and Unsplash by typing keyword and we can choose &amp;#x26; import them on the editor screen. I guess this function will be better if it become able to utilize block-chain technology in back-end .&lt;/p&gt;
+&lt;p&gt;As this idea, it’s very important to connect human’s experience and recent technology.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;/necessity_of_native_1&quot;&gt;Necessity of Native Part.1&lt;/a&gt;では、主観を抜いた、構造的な観点におけるNativeの必要性について記述してきたが、一言で言えば、Nativeはこのように「Webがより豊かな場所になるための第一歩になる」と考えています。&lt;/p&gt;
+&lt;p&gt;最近のWebは、どこか煩雑で、混沌としているような印象を受けます。私はもっとWebという場所に「上質さ」や「安定性」を求めたいと考えており、感覚的で申し訳ありませんが、私はもっとWebという場所がもっと、人々の伝えたいことを伝えたように伝える場所になっていいと考えています。もっとWebは自由で秩序のある場所にしていきたいと考えています。&lt;/p&gt;
+&lt;p&gt;現代のテクノロジーの進歩は凄まじく、目を見張るところがあります。しかし、私はそれらを私たち人間のためにデザインすることが追いついていないように感じます。私はもっと、人間の視点、作る人、見る人の視点に立ってWebを中心に技術をデザインしていきたいと考えており、Nativeをその船出の第一歩としたいと考えています。&lt;/p&gt;
+&lt;p&gt;もう少し掘り下げれば、ブロックチェーン技術やクリエイティブ・コモンズの浸透など、コンテンツを再利用する「仕組み」はかなり整ってきている一方で、具体的にコンテンツを再利用できるシーンは限定的だと考えています。Nativeによって、コンテンツを制作する上でエディター上でテキスト・画像・映像・音声のすべてを用いることができることは、換言すればコンテンツごとに取り込める外部のコンテンツがそれだけ豊かになるということです。Nativeには「ユニバーサル・マークダウン（記事の執筆中に画像や映像・音声を同時にキーワード検索して外部から即座にエディターへコンテンツを取り込める機能）」という機能を実験的に備え付けていますが、例えばこの機能にブロックチェーン技術を取り込むなど、人々の「体験」とテクノロジーを結びつけることが今後重要だと考えています。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Necessity of Native Part.1]]></title><description><![CDATA[!! Now you can't watch our YouTube videos !! I'm sorry. You can watch them in Vimeo instead. Now we're trying to restore our YouTube Channel…]]></description><link>https://odds-wh.tokyo/necessity_of_native_1/</link><guid isPermaLink="false">https://odds-wh.tokyo/necessity_of_native_1/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;!! Now you can&apos;t watch our YouTube videos !!&lt;/h3&gt;
+&lt;p&gt;I&apos;m sorry. You can watch them in Vimeo instead.&lt;/p&gt;
+&lt;p&gt;Now we&apos;re trying to restore our YouTube Channel.&lt;/p&gt;
+&lt;p&gt;2023.3/28&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812302343&quot;&gt;Why I built Native&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812303080&quot;&gt;Future of Native&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812303233&quot;&gt;About my Career&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/native_tutorial&quot;&gt;Native Tutorial&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;When I planed Native, I had felt something wrong about current writing mainly at three points and Native will solve thesse inconvenience.&lt;/p&gt;
 &lt;h2&gt;Creator’s content have to be managed on platforms&lt;/h2&gt;
@@ -400,26 +426,7 @@ Now we&apos;re trying to restore our YouTube Channel.
 &lt;h2&gt;メディア自身の分裂&lt;/h2&gt;
 &lt;p&gt;僕が「プラットフォームの内側と外側」を強く意識するようになったのは、以下のようなメディアの存在である。これらはYouTubeのコンテンツを制作・配信しつつ、自身のWebメディアでも別の記事のコンテンツを配信していたりする。一方では映像にしたものを、一方では文字起こしして記事にしているようなものなどもあり、これがオーディエンスの体験を考慮してなされたことであれば望ましいと思う。（映像よりもテキストで自分のペースで情報を得たい人もいる）
 しかし、このYouTubeで撮影した映像などが、メインのWebメディアでは驚くほど活用できていないように感じる。つまり、少なからず構造的にWebメディアでは映像や音声の活用がしづらい状況があり、それゆえにYouTubeチャンネルとWebメディアを両方並行で運営したり、それぞれに異なるコンテンツを制作・公開する必要があったりするのではないか、という仮説を持っている。
-Nativeには、こういった「デジタルコンテンツ産業の構造的な課題を解消していける」と考えており、これは揺るぎないコアな価値だと考えている。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Necessity of Native Part.2]]></title><description><![CDATA[!! Now you can't watch our YouTube videos !! I'm sorry. You can watch them in Vimeo instead and Dropbox.
-Now we're trying to restore our…]]></description><link>https://odds-wh.tokyo/necessity_of_native_2/</link><guid isPermaLink="false">https://odds-wh.tokyo/necessity_of_native_2/</guid><pubDate>Sun, 12 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;h3&gt;!! Now you can&apos;t watch our YouTube videos !!&lt;/h3&gt;
-&lt;p&gt;I&apos;m sorry. You can watch them in Vimeo instead and Dropbox.
-Now we&apos;re trying to restore our YouTube Channel.
-2023.3/28&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/812302343&quot;&gt;Why I built Native&lt;/a&gt;
-&lt;a href=&quot;https://vimeo.com/812303080&quot;&gt;Future of Native&lt;/a&gt;
-&lt;a href=&quot;https://vimeo.com/812303233&quot;&gt;About my Career&lt;/a&gt;
-&lt;a href=&quot;https://www.dropbox.com/sh/2vlvn757hpylw85/AAAT07Y57xJ-Gpjz_QDGWhQsa?dl=0&quot;&gt;Native Tutorial&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;In &lt;a href=&quot;/necessity_of_native_1&quot;&gt;Necessity of Native Part.1&lt;/a&gt;, I described the necessity of Native from structual perspective. In a word. Native will be the first step in progress of Web to become better place.&lt;/p&gt;
-&lt;p&gt;I guess recent Web looks a mess and complicated. I don’t know the other people’s thought, but I want to demand Web to be well-ordered and be a place people can tell their story their own way.&lt;/p&gt;
-&lt;p&gt;In addition, the advance of recent technologies are insane. But on the other hand, I guess we have lack of design of them for us. I want to design recent great technogogies put myself in audience’s shoe and creator’s shoe, and native will be the first work for me.&lt;/p&gt;
-&lt;p&gt;Deep dive into this topic, I guess the system that people re-use others content such as block-chain technology and creative-commons, but the number of opportunity people actually can re-use is still smaill. In terms of Naive, we can import every expression-media such as text, image, video, and audio. This is also an advantage at this point. I mean We can import other creator’s content regardless expression-media type in Native. There is a unique function called “Universal Markdown” in Native and we can search any photos and videos and audios in other platform such as YouTube and Unsplash by typing keyword and we can choose &amp;#x26; import them on the editor screen. I guess this function will be better if it become able to utilize block-chain technology in back-end .&lt;/p&gt;
-&lt;p&gt;As this idea, it’s very important to connect human’s experience and recent technology.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;a href=&quot;/necessity_of_native_1&quot;&gt;Necessity of Native Part.1&lt;/a&gt;では、主観を抜いた、構造的な観点におけるNativeの必要性について記述してきたが、一言で言えば、Nativeはこのように「Webがより豊かな場所になるための第一歩になる」と考えています。&lt;/p&gt;
-&lt;p&gt;最近のWebは、どこか煩雑で、混沌としているような印象を受けます。私はもっとWebという場所に「上質さ」や「安定性」を求めたいと考えており、感覚的で申し訳ありませんが、私はもっとWebという場所がもっと、人々の伝えたいことを伝えたように伝える場所になっていいと考えています。もっとWebは自由で秩序のある場所にしていきたいと考えています。&lt;/p&gt;
-&lt;p&gt;現代のテクノロジーの進歩は凄まじく、目を見張るところがあります。しかし、私はそれらを私たち人間のためにデザインすることが追いついていないように感じます。私はもっと、人間の視点、作る人、見る人の視点に立ってWebを中心に技術をデザインしていきたいと考えており、Nativeをその船出の第一歩としたいと考えています。&lt;/p&gt;
-&lt;p&gt;もう少し掘り下げれば、ブロックチェーン技術やクリエイティブ・コモンズの浸透など、コンテンツを再利用する「仕組み」はかなり整ってきている一方で、具体的にコンテンツを再利用できるシーンは限定的だと考えています。Nativeによって、コンテンツを制作する上でエディター上でテキスト・画像・映像・音声のすべてを用いることができることは、換言すればコンテンツごとに取り込める外部のコンテンツがそれだけ豊かになるということです。Nativeには「ユニバーサル・マークダウン（記事の執筆中に画像や映像・音声を同時にキーワード検索して外部から即座にエディターへコンテンツを取り込める機能）」という機能を実験的に備え付けていますが、例えばこの機能にブロックチェーン技術を取り込むなど、人々の「体験」とテクノロジーを結びつけることが今後重要だと考えています。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Career]]></title><description><![CDATA[Now, we’re trying to form a company named “Odds” with engineers. To investor Native is our first product, and the next step is to verify…]]></description><link>https://odds-wh.tokyo/career/</link><guid isPermaLink="false">https://odds-wh.tokyo/career/</guid><pubDate>Mon, 06 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;Now, we’re trying to form a company named “Odds” with engineers.&lt;/p&gt;
+Nativeには、こういった「デジタルコンテンツ産業の構造的な課題を解消していける」と考えており、これは揺るぎないコアな価値だと考えている。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Career]]></title><description><![CDATA[Now, we’re trying to form a company named “Odds” with engineers. To investor Native is our first product, and the next step is to verify…]]></description><link>https://odds-wh.tokyo/career/</link><guid isPermaLink="false">https://odds-wh.tokyo/career/</guid><pubDate>Mon, 06 Mar 2023 23:37:03 GMT</pubDate><content:encoded>&lt;p&gt;Now, we’re trying to form a company named “Odds” with engineers.&lt;/p&gt;
 &lt;h2&gt;To investor&lt;/h2&gt;
 &lt;p&gt;Native is our first product, and the next step is to verify Native’s needs and identify the growth potential of this business. In order to this step, we need to develop Native for verification and update the interface design and function of Native trial and error with many creators and media companies, so we need fund to form company and start these tasks.&lt;/p&gt;
 &lt;p&gt;Based on Native itself and my career so far and documents on this site, if you feel the potential of Native and our future and sympathy for our mission “contribute to society though fantastic products”, please contact us.&lt;/p&gt;
